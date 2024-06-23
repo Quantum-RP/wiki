@@ -17,6 +17,8 @@ hero:
 features:
   - title: Unser Wiki
     details: Entdecke alle Informationen und Hilfestellungen rund um Quantum.
+  - title: Unser Regelwerk
+    details: Verstehe die Grundlagen und Spielregeln, die ein faires und spannendes Spielerlebnis garantieren.
   - title: Unsere Gesetze
     details: Lerne die Regeln und Vorschriften kennen, die das Leben in Quantum leiten.
   - title: Unsere Bußgeldkataloge
