@@ -66,18 +66,22 @@ export default defineConfig({
 
     sidebar: [
       {
+        collapsed: true,
         text: 'Wiki',
         items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../wiki')), 'wiki')
       },
       {
+        collapsed: true,
         text: 'Gesetze',
         items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../gesetze')), 'gesetze')
       },
       {
+        collapsed: true,
         text: 'Bußgeld',
         items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../bußgeld')), 'bußgeld')
       },
       {
+        collapsed: true,
         text: 'Regeln',
         items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../regeln')), 'regeln')
       }
