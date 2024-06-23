@@ -5,14 +5,14 @@ index: 1
 
 # 🏆 Grundgesetz (GG)
 
-## Artikel 1 - Grundrechte
+## Artikel 1 - Grundrechte 👨‍👩‍👧‍👦
 1. Die Würde des Menschen ist unantastbar
   
 2. Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.
 
 3. Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.
 
-## Artikel 2 - Menschenrechte
+## Artikel 2 - Menschenrechte ⭐
 1. Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Solidarität begegnen.
 
 2. Jeder Mensch hat Anspruch auf die in dieser Erklärung verkündeten Rechte und Freiheiten ohne irgendeinen Unterschied, etwa aufgrund rassistischer Zuschreibungen, nach Hautfarbe, Geschlecht, Sprache, Religion, politischer oder sonstiger Überzeugung, nationaler oder sozialer Herkunft, Vermögen, Geburt oder sonstigem Stand.
