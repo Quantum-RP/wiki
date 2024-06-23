@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Quantum RP"
+  text: "Wiki und mehr"
+  tagline: Unsere Tolle Tagline
   actions:
     - theme: brand
       text: Wiki
       link: /wiki
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: alt
+      text: Gesetze
+      link: /gesetze
 
 features:
   - title: Feature A
