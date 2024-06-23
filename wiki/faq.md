@@ -46,8 +46,18 @@ Um unseren Server beizutreten solltest du zunächst Mitglied unseres Discord-Ser
 ## Technisches FAQ 🖥️
 
 <details>
-<summary>Fragestellung</summary>
-Text
+  <summary>💻 Welche Systemanforderungen hat der Quantum RP Server?</summary>
+  Stelle sicher, dass dein PC die Mindestanforderungen für GTA V erfüllt. Zusätzlich benötigst du eine stabile Internetverbindung und genügend Speicherplatz für Mods und zusätzliche Dateien.
+</details>
+
+<details>
+  <summary>❌ Was mache ich, wenn das Spiel abstürzt?</summary>
+  Überprüfe zunächst, ob alle Mods aktuell sind und keine Konflikte verursachen. Starte das Spiel neu und melde das Problem, falls es weiterhin besteht, im technischen Support-Channel auf Discord.
+</details>
+
+<details>
+  <summary>🚀 Wie kann ich meine Spielperformance verbessern?</summary>
+  Reduziere die Grafikeinstellungen im Spiel und stelle sicher, dass keine Hintergrundprogramme die Leistung beeinträchtigen. Aktualisiere deine Treiber und prüfe, ob dein System die Anforderungen erfüllt.
 </details>
 
 ---
@@ -55,6 +65,31 @@ Text
 ## Roleplay FAQ 🎭
 
 <details>
-<summary>Fragestellung</summary>
-Text
+  <summary>🎬 Was ist Roleplay und wie funktioniert es auf Quantum?</summary>
+  Roleplay (RP) ist eine Form des Spiels, bei der du eine Rolle spielst und in die Welt von Los Santos eintauchst. Du interagierst mit anderen Spielern in deiner Rolle und trägst zur Geschichte bei.
+</details>
+
+<details>
+  <summary>👤 Wie erstelle ich einen Charakter?</summary>
+  Folge dem Leitfaden zur [Charakterstellung](https://quantum-wiki.pages.dev/wiki/char-creation.html) auf unserer Website. Überlege dir eine Hintergrundgeschichte, wähle ein Aussehen und definiere die Eigenschaften deines Charakters.
+</details>
+
+<details>
+  <summary>🚫 Was ist Metagaming und warum ist es verboten?</summary>
+  Metagaming bedeutet, Informationen zu nutzen, die dein Charakter im Spiel nicht wissen kann. Es ist verboten, um ein realistisches und faires RP-Erlebnis zu gewährleisten.
+</details>
+
+<details>
+  <summary>⚔️ Was ist Powergaming und warum ist es verpönt?</summary>
+  Powergaming ist das Übertreiben der Fähigkeiten deines Charakters oder das Erzwingen von Aktionen bei anderen Spielern. Es stört das RP-Erlebnis und ist daher nicht erlaubt.
+</details>
+
+<details>
+  <summary>🤝 Wie gehe ich mit Konflikten zwischen Charakteren um?</summary>
+  Konflikte sind Teil des RP, sollten aber immer respektvoll und im Rahmen der Serverregeln ausgetragen werden. Bei Problemen kontaktiere einen Admin oder Moderator per Ticket-System.
+</details>
+
+<details>
+  <summary>👥 Kann ich mehrere Charaktere haben?</summary>
+  Nein, du kannst vorerst nicht mehr als einen Charakter erstellen.
 </details>
