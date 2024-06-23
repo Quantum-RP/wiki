@@ -24,19 +24,13 @@ Erlebe die vielfältigen Spielmechaniken von Quantum. Wähle aus einer breiten P
 Wähle deinen Weg in der Welt von Quantum und entscheide dich für eine staatliche oder kriminelle Karriere. Schließe dich staatlichen Fraktionen an und arbeite als Polizist, Mediziner oder Mechaniker, um die Stadt sicher und geordnet zu halten. Oder wähle eine kriminelle Laufbahn und werde Teil einer Gang, eines Kartells oder einer anderen Untergrundorganisation, um deinen Einfluss in der Unterwelt zu vergrößern. Jede Fraktion bietet einzigartige Möglichkeiten und Herausforderungen. Besuche unsere Fraktionsseite, um mehr über die verschiedenen Karrierepfade und ihre Anforderungen zu erfahren.
 ---
 - [Gesetzesbücher]
-Du möchtest dich stets über die aktuelle Gesetzeslage informieren? Hier findest du alle Gesetzestexte zu geltendem Recht auf Altera Vita RP.
----
-- [Stadtkarte und wichtige Orte]
-Eine Stadtkarte und wichtige Orte wird dir helfen, dich in der Stadt zurechtzufinden und die Hotspots des Rollenspiels zu entdecken.
+Die Gesetzesbücher von Quantum regeln das Zusammenleben und die Interaktionen der Spieler. Sie umfassen alle Bereiche – von Verkehrsregeln über Strafgesetze bis hin zu Arbeits- und Handelsrechten. Besuche unsere [https://quantum-wiki.pages.dev/gesetze/](Gesetzesbuch-Seite), um alle Vorschriften zu kennen und sicherzustellen, dass du im Einklang mit den Regeln von Quantum handelst.
 ---
 - [Häufig gestellte Fragen (FAQ)]
-Antworten auf die häufig gestellten Fragen findest du hier. Wenn du neu bist oder spezifische Fragen hast, ist dies der beste Ort, um Antworten zu finden.
----
-- [Community und Events]
-Bleib auf dem Laufenden mit den neuesten Community und Events. Nimm an spannenden Rollenspiel-Events teil und vernetze dich mit anderen Spielern.
+Hast du Fragen zu Quantum? Unsere FAQ-Seite bietet dir Antworten auf die häufigsten Fragen rund um das Spiel. Erfahre mehr über Charaktererstellung, Spielmechaniken, Fraktionen und Gesetzesbücher. Hier findest du hilfreiche Tipps und detaillierte Erklärungen, um dein Spielerlebnis zu verbessern. Besuche unsere FAQ-Seite und finde schnell die Informationen, die du benötigst.
 ---
 - [Support und Kontakt]
-Wenn du Hilfe benötigst, steht dir unser Support und Kontakt-Bereich zur Verfügung. Unser Team ist bereit, dir bei Problemen oder Fragen weiterzuhelfen.
+Benötigst du Hilfe oder hast Fragen zu Quantum? Unser Support-Team steht dir zur Verfügung! Besuche unseren Discord, um Unterstützung bei technischen Problemen, Account-Fragen oder spielbezogenen Anliegen zu erhalten. Wir sind hier, um dir zu helfen und sicherzustellen, dass dein Erlebnis in der Welt von Quantum reibungslos verläuft. Kontaktiere uns jederzeit für schnelle und freundliche Unterstützung.
 
 ---
-*Erlebe deine Geschichte, forme deine Zukunft.*
+*Erlebe deine Geschichte, forme deine Zukunft.* 🌍✨
