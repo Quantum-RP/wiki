@@ -1,6 +1,6 @@
 ---
 title: 🏆 Grundgesetz
-index: 0
+index: 1
 ---
 
 # 🏆 Grundgesetz (GG)
