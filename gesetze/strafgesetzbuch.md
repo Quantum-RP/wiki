@@ -36,11 +36,8 @@ index: 2
 `3.` Der Besitz von Waffen und Waffenteilen, die nicht bei lizenzierten Verkaufsstellen erhält sind, ist verboten. Diese werden in die folgenden Kategorien unterteilt:
 
      a. Hieb und Sichtwaffen, die für Verletzungen oder Tötungen gedacht sind.
-
      b. Halbautomatische Schusswaffen
-
      c. Vollautomatische Schusswaffen
-
      d. Scharfschützengewehre
 
 `4.` Jeglicher Handel mit Waffen und ihren Bauteilen ist ohne entsprechende Lizenz untersagt.
@@ -135,3 +132,56 @@ index: 2
 
 ---
 
+## §6 StGB Organisierte Kriminalität 🐱‍👤
+
+`1.` Personen, welche kriminelle Vereinigungen unterstützen oder für sie um Werbung und Unterstützung werben, machen sich strafbar.
+
+`2.` Personen können nach Ermessen des Gerichts Strafmilderung oder Straffreiheit bekommen, wenn der Beschuldigte:
+
+          a. bemüht ist das Bestehen der Vereinigung zu verhindern.
+          b. bemüht ist das Ausführen einer der kriminellen Vereinigung zielführenden Straftat zu verhindern.
+          c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sodass geplante Straftaten einer Vereinigung frühzeitig verhindert werden können.
+
+`3.` Sollte eine bekanntlich kriminelle Vereinigung durch die Regierung offiziell zu einer kriminellen Organisation mit erhöhter Alarmstufe eingestuft werden, können die Strafen, welche unter § 1 und 2 des StGB fallen, für die Mitglieder individuell durch das Ministerium festgesetzt werden.
+
+---
+
+## §7 StGB Staatsmaßnahmen 📣
+
+`1.` Der Kanzler, sowie der Vizekanzler der Bundesregierung können folgende Maßnahmen erlassen bzw. durch die Sicherheitsbehörden `(§1 Abs. 1a/b BDG)` durchsetzen lassen:
+
+`a.` Personendurchsuchung: Erlaubt die Durchsuchung aller genannten Personen oder Personengruppen und die Sicherstellung von illegalen Gegenständen nach `§1 Abs. 7 StGB`, `§2 Abs. 3 StGB` und `§1 Abs. 1 BtMG`.
+
+`b.` Erweiterete Personendurchsuchung: Erlaubt die Durchsuchung/Sicherstellung nach `(a.)` sowie die Durchsuchung der Fahrzeuge und Firmen der genannten Personen oder Personengruppen.
+
+`c.` Durchsuchungsbefehl/Razziabeschluss: Erlaubt die Durchsuchung/Sicherstellung nach `(a. und b.)` sowie die Durchsuchung aller Räumlichkeiten, die sich im Besitz der genannten Personen oder Personengruppen befinden, sowie explizit erwähnte Räumlichkeiten. Ein Durchsuchungsbefehl/Razziabeschluss kann erst mit einer Wirksamkeit eines offenstehendes Bußgeldes von mindestens `500.000 €` angefragt und genehmigt werden.
+
+`d.` Ausgangssperre: Der Kanzler darf zum Schutze der Zivilbevölkerung eine Ausgangssperre erlassen. Sämtlichen Bürgern ist es ohne Befugnis nicht erlaubt, ihr Privatgrundstück zu verlassen. Der Aufenthalt ist nur in einer Schutzzone (Würfelpark, Polizeirevier, Krankenhaus) oder auf Privatgrundstück gestattet. Jede Person außerhalb dieser Zonen müssen mit sofortiger Festnahme rechnen.
+
+---
+
+## §8 StGB Terrorismus 💣
+
+`1.` Wer eine Vereinigung gründet, deren Zwecke oder deren Tätigkeiten darauf gerichtet sind, Mord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen, Straftaten gegen die persönliche Freiheit in den Fällen zu begehen oder den Staat als Feind betrachtet und gewaltsam gegen ihn vorgeht macht sich strafbar:
+
+`a.` Personen, welche menschenrechtsverletzende Verbrechen in mehreren Fällen begehen, machen sich strafbar.
+
+`b.` welche die Zivilbevölkerung erheblich durch terroristische Aktivitäten einschränken, machen sich strafbar.
+
+`c.` die Staatsorgane erheblich durch Waffengewalt oder Androhung von Waffengewalt einschränken, machen sich strafbar.
+
+`d.` die die öffentliche Sicherheit massiv beeinträchtigen, machen sich strafbar.
+
+`e.` die wissentlich bei einer terroristischen Organisation mitarbeiten, machen sich strafbar.
+
+---
+
+## §9 StGB Behinderung der Rettungsorgane 🚑
+
+`1.` Wer sich selbst oder seine Gesundheit grobfahrlässig vernachlässigt oder auf Kosten von Steuergeldern unbegründet den Dienst des Rettungsdienstes in Anspruch nimmt um deren Ressourcen zu verbrauchen, der wird mit einem Bußgeld bestraft.
+
+`2.` Wer Personen vom Unfallort entfernt, versteckt oder transportiert macht sich strafbar.
+
+`3.` Wer Rettungswege versperrt oder andersweitig blockiert oder keine Rettungsgasse bildet, macht sich strafbar.
+
+`4.` Wer andere Personen ohne ersichtlichen Grund verletzt und damit den Rettungsdienst belastet, macht sich strafbar.
