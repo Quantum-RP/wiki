@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Quantum RP"
+  name: "Quantum"
   text: "Wiki und mehr"
   tagline: Erlebe deine Geschichte, forme deine Zukunft!
   # actions:
