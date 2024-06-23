@@ -33,4 +33,4 @@ Hast du Fragen zu Quantum? Unsere FAQ-Seite bietet dir Antworten auf die häufig
 Benötigst du Hilfe oder hast Fragen zu Quantum? Unser Support-Team steht dir zur Verfügung! Besuche unseren Discord, um Unterstützung bei technischen Problemen, Account-Fragen oder spielbezogenen Anliegen zu erhalten. Wir sind hier, um dir zu helfen und sicherzustellen, dass dein Erlebnis in der Welt von Quantum reibungslos verläuft. Kontaktiere uns jederzeit für schnelle und freundliche Unterstützung.
 
 ---
-*Erlebe deine Geschichte, forme deine Zukunft.* 🌍✨
+*Erlebe deine Geschichte, forme deine Zukunft.*
