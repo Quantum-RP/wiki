@@ -23,7 +23,7 @@ Um unseren Server beizutreten solltest du zunächst Mitglied unseres Discord-Ser
 
 <details>
   <summary>🚧 Was mache ich, wenn ich im Spiel feststecke?</summary>
-  Solltest du im Spiel feststecken, benutze die Report Funktion oder kontaktiere einen Admin über Discord. Sie können dir weiterhelfen.
+  Solltest du im Spiel feststecken, benutze die Report Funktion oder kontaktiere einen Admin über unser Ticket-System. Sie können dir weiterhelfen.
 </details>
 
 <details>
