@@ -29,13 +29,10 @@ function generateNavLinks(files, baseDir) {
   })
 }
 
-const wikiDir = path.join(__dirname, '../wiki')
-const gesetzeDir = path.join(__dirname, '../gesetze')
-
-const wikiFiles = getMarkdownFiles(wikiDir)
-const lawFiles = getMarkdownFiles(gesetzeDir)
-
-console.log({wikiFiles, lawFiles})
+const wikiFiles = getMarkdownFiles(path.join(__dirname, '../wiki'))
+const gesetzeFiles = getMarkdownFiles(path.join(__dirname, '../gesetze'))
+const bußgeld = getMarkdownFiles(path.join(__dirname, '../bußgeld'))
+const regeln = getMarkdownFiles(path.join(__dirname, '../regeln'))
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -51,7 +48,15 @@ export default defineConfig({
       },
       {
         text: 'Gesetze', 
-        link: lawFiles.includes('index.md') ? '/gesetze' : `/gesetze/${lawFiles[0].replace('.md', '')}`
+        link: gesetzeFiles.includes('index.md') ? '/gesetze' : `/gesetze/${gesetzeFiles[0].replace('.md', '')}`
+      },
+      {
+        text: 'Bußgeld', 
+        link: bußgeld.includes('index.md') ? '/bußgeld' : `/bußgeld/${bußgeld[0].replace('.md', '')}`
+      },
+      {
+        text: 'Regeln', 
+        link: regeln.includes('index.md') ? '/regeln' : `/regeln/${regeln[0].replace('.md', '')}`
       }
     ],
 
@@ -62,11 +67,19 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Wiki',
-        items: generateNavLinks(wikiFiles, 'wiki')
+        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../wiki')), 'wiki')
       },
       {
         text: 'Gesetze',
-        items: generateNavLinks(lawFiles, 'gesetze')
+        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../gesetze')), 'gesetze')
+      },
+      {
+        text: 'Bußgeld',
+        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../bußgeld')), 'bußgeld')
+      },
+      {
+        text: 'Regeln',
+        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../regeln')), 'regeln')
       }
     ],
 
