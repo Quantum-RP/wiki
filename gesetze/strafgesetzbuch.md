@@ -140,7 +140,7 @@ index: 2
 
      a. bemüht ist das Bestehen der Vereinigung zu verhindern.
      b. bemüht ist das Ausführen einer der kriminellen Vereinigung zielführenden Straftat zu verhindern.
-     c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sodass geplante Straftaten einer Vereinigung frühzeitig verhindert werden können.
+     c. das Wissen mitteilt, sodass geplante Straftaten einer Vereinigung frühzeitig verhindert werden können.
 
 `3.` Sollte eine bekanntlich kriminelle Vereinigung durch die Regierung offiziell zu einer kriminellen Organisation mit erhöhter Alarmstufe eingestuft werden, können die Strafen, welche unter § 1 und 2 des StGB fallen, für die Mitglieder individuell durch das Ministerium festgesetzt werden.
 
