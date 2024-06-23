@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import fs from 'fs'
+
+const wikiFiles = fs.readdirSync(__dirname + '/../wiki')
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -19,9 +22,12 @@ export default defineConfig({
       {
         text: 'Wiki',
         items: [
-          { text: 'Home', link: '/wiki' },
-          { text: 'Test', link: '/wiki/test' },
-          { text: 'Test-seite', link: '/wiki/test-seite' }
+          ...wikiFiles.map(file => {
+            return {
+              text: file.replace('.md', '').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+              link: `/wiki/${file.replace('.md', '')}`
+            }
+          })
         ]
       }
     ],
