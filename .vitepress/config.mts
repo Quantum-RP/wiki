@@ -12,10 +12,15 @@ function getMarkdownFiles(dir) {
 
 // Function to get the front matter title if available, otherwise use the filename
 function getFileTitle(filePath) {
-  console.log({filePath})
   const content = fs.readFileSync(filePath, 'utf-8')
   const { data } = matter(content)
   return data.title || path.basename(filePath, '.md').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
+}
+
+function getFileIndex(filePath) {
+  const content = fs.readFileSync(filePath, 'utf-8')
+  const { data } = matter(content)
+  return data.index ?? 1
 }
 
 // Function to generate navigation links
@@ -24,9 +29,10 @@ function generateNavLinks(files, baseDir) {
     const filePath = path.join(baseDir, file)
     return {
       text: getFileTitle(filePath),
-      link: `/${baseDir}/${file.replace('.md', '')}`
+      link: `/${baseDir}/${file.replace('.md', '')}`,
+      index: getFileIndex(filePath)
     }
-  })
+  }).sort((a, b) => a.index - b.index)
 }
 
 const wikiFiles = getMarkdownFiles(path.join(__dirname, '../wiki'))
@@ -68,22 +74,22 @@ export default defineConfig({
       {
         collapsed: true,
         text: 'Wiki',
-        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../wiki')), 'wiki')
+        items: generateNavLinks(wikiFiles, 'wiki')
       },
       {
         collapsed: true,
         text: 'Gesetze',
-        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../gesetze')), 'gesetze')
+        items: generateNavLinks(gesetzeFiles, 'gesetze')
       },
       {
         collapsed: true,
         text: 'Bußgeld',
-        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../bußgeld')), 'bußgeld')
+        items: generateNavLinks(bußgeld, 'bußgeld')
       },
       {
         collapsed: true,
         text: 'Regeln',
-        items: generateNavLinks(getMarkdownFiles(path.join(__dirname, '../regeln')), 'regeln')
+        items: generateNavLinks(regeln, 'regeln')
       }
     ],
 
