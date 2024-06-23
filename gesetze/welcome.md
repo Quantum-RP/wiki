@@ -9,7 +9,7 @@ Willkommen in der Kategorie Gesetzestexte. Hier findest du alle relevanten Geset
 ## Inhaltsverzeichnis
 1. [Grundgesetz](https://quantum-wiki.pages.dev/gesetze/grundgesetz) 🏆
 2. [Strafgesetzbuch](https://quantum-wiki.pages.dev/gesetze/strafgesetzbuch.html) 📕
-3. Straßenverkehrsordnung 📙
+3. [Straßenverkehrsordnung](https://quantum-wiki.pages.dev/gesetze/stvo.html) 📙
 4. Beamtendienstgesetz 📘
 5. Strafprozessordnung 📗
 6. Gewerbeordnung 📒
