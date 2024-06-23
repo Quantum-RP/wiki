@@ -1,5 +1,5 @@
 ---
-title: 📕 Strafgesetzbuch
+title: 📚 Willkommen
 index: 0
 ---
 
