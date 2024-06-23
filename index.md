@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Unser Wiki
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Entdecke alle Informationen und Hilfestellungen rund um Quantum.
   - title: Unsere Gesetze
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Lerne die Regeln und Vorschriften kennen, die das Leben in Quantum leiten.
   - title: Unsere Bußgeldkataloge
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Informiere dich über die Konsequenzen und Strafen bei Ordnungswidrigkeiten und Straftaten.
 ---
 
