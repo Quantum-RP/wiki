@@ -62,10 +62,10 @@ index: 2
 
 `6.` Mörder ist, wer aus folgenden Gründen einen Menschen vorsätzlich lebensbedrohlich verletzt:
 
-    a. aus Mordlust, zur Befriedigung des Geschlechtstriebs, aus Habgier oder sonst aus niedrigen Beweggründen,
+    a. aus Mordlust, aus Habgier oder sonst aus niedrigen Beweggründen,
     b. heimtückisch oder grausam oder mit gemeingefährlichen Mitteln oder
     c. um eine andere Straftat zu ermöglichen oder zu verdecken
-    d. Lebensbedrohliche Verletzungen sind ausschließlich solche Verletzungen, die durch die Not-OP Ärzte zu behandeln sind.
+    d. Lebensbedrohliche Verletzungen sind die, die durch die Not-OP Ärzte zu behandeln sind.
 
 `7.` Als Gehilfe wird bestraft, wer vorsätzlich einem anderen zu dessen vorsätzlich begangener rechtswidriger Tat Hilfe geleistet hat.
 
@@ -120,7 +120,7 @@ index: 2
 
 `5.` Wer rechtswidrig eine fremde Sache beschädigt oder zerstört, macht sich der Sachbeschädigung schuldig. Bereits der Versuch ist strafbar.
 
-`6.` Wer in die Wohnung, in die Geschäftsräume oder in das befriedete Besitztum eines anderen oder in abgeschlossene Räume, welche zum öffentlichen Dienst oder Verkehr bestimmt sind, widerrechtlich eindringt, oder wer, wenn er ohne Befugnis darin verweilt, auf die Aufforderung des Berechtigten sich nicht entfernt, macht sich des Hausfriedensbruchs strafbar.
+`6.` Wer widerrechtlich in eine Wohnung, Geschäftsräume, befriedetes Besitztum oder öffentliche Räume eindringt oder nach Aufforderung nicht verlässt, begeht Hausfriedensbruch.
 
 `7.` Wer zur Täuschung im Rechtsverkehr eine unechte Urkunde herstellt, eine echte Urkunde verfälscht oder eine unechte oder verfälschte Urkunde gebraucht, macht sich strafbar.
 
@@ -138,9 +138,9 @@ index: 2
 
 `2.` Personen können nach Ermessen des Gerichts Strafmilderung oder Straffreiheit bekommen, wenn der Beschuldigte:
 
-          a. bemüht ist das Bestehen der Vereinigung zu verhindern.
-          b. bemüht ist das Ausführen einer der kriminellen Vereinigung zielführenden Straftat zu verhindern.
-          c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sodass geplante Straftaten einer Vereinigung frühzeitig verhindert werden können.
+     a. bemüht ist das Bestehen der Vereinigung zu verhindern.
+     b. bemüht ist das Ausführen einer der kriminellen Vereinigung zielführenden Straftat zu verhindern.
+     c. das Wissen über eine bevorstehende Straftat einer Dienststelle mitteilt, sodass geplante Straftaten einer Vereinigung frühzeitig verhindert werden können.
 
 `3.` Sollte eine bekanntlich kriminelle Vereinigung durch die Regierung offiziell zu einer kriminellen Organisation mit erhöhter Alarmstufe eingestuft werden, können die Strafen, welche unter § 1 und 2 des StGB fallen, für die Mitglieder individuell durch das Ministerium festgesetzt werden.
 
