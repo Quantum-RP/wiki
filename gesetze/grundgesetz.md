@@ -5,7 +5,7 @@ index: 0
 
 # 🏆 Grundgesetz (GG)
 
-## Artikel 1- Grundrechte
+## Artikel 1 - Grundrechte
 1. Die Würde des Menschen ist unantastbar
   
 2. Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.
