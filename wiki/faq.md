@@ -1,6 +1,6 @@
 ---
 title: ❓ FAQ
-index: 3
+index: 2
 ---
 
 # ❓ FAQ
