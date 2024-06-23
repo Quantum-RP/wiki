@@ -1,6 +1,6 @@
 ---
 title: 📕 Strafgesetzbuch
-index: 1
+index: 2
 ---
 
 # 📕 Strafgesetzbuch (StGB)
