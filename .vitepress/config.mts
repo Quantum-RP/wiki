@@ -8,8 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Wiki', link: '/wiki' },
-      { text: 'Test Seite', link: '/test-seite' }
+      { text: 'Wiki', link: '/wiki' }
     ],
 
     search: {
@@ -22,6 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Home', link: '/wiki' },
           { text: 'Test', link: '/wiki/test' },
+          { text: 'Test-seite', link: '/wiki/test-seite' }
         ]
       }
     ],
