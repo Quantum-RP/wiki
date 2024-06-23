@@ -15,7 +15,7 @@ Quantum, einem unabhängigen Paradies, das fernab vom Festland in den Weiten des
 - [Regeln und Richtlinien]
 Quantum sieht einige Regeln und Richtlinien vor um ein gemeinsames Miteinander so reibungslos und immersiv wie möglich zu bieten. Bevor du also auf unseren Server ins Getummel startest, solltest du dir wichtigsten Regeln und Richtlinien durchlesen um unseren Server näher kennenzulernen. Hiermit stellen wir und vor allem du sicher, dass Quantum ein Spielerfreundliches Erlebnis für alle Beteiligten ist.
 ---
-- [Charaktererstellung]
+- [Charaktererstellung](https://quantum-wiki.pages.dev/wiki/char-creation.html)
 Erfahre, wie du deinen eigenen einzigartigen Charakter erstellst und ihn in die Welt von Quantum integrierst. Besuche unsere Charaktererstellung-Seite für detaillierte Anleitungen und Tipps. Dort erfährst du alles Wichtige, um deinen Charakter nach deinen Vorstellungen zu gestalten. Von der Auswahl des Aussehens über die Festlegung der Hintergrundgeschichte bis hin zu den individuellen Fähigkeiten – wir unterstützen dich dabei, deine kreative Vision Wirklichkeit werden zu lassen. Beginne jetzt und tauche ein in die immersive Welt von Quantum!
 ---
 - [Spielmechaniken bei Quantum]
@@ -27,7 +27,7 @@ Wähle deinen Weg in der Welt von Quantum und entscheide dich für eine staatlic
 - [Gesetzesbücher]
 Die Gesetzesbücher von Quantum regeln das Zusammenleben und die Interaktionen der Spieler. Sie umfassen alle Bereiche – von Verkehrsregeln über Strafgesetze bis hin zu Arbeits- und Handelsrechten. Besuche unsere Gesetzesbücher, um alle Vorschriften zu kennen und sicherzustellen, dass du im Einklang mit den Regeln von Quantum handelst.
 ---
-- [Häufig gestellte Fragen (FAQ)]
+- [Häufig gestellte Fragen (FAQ)](https://quantum-wiki.pages.dev/wiki/faq.html)
 Hast du Fragen zu Quantum? Unsere FAQ-Seite bietet dir Antworten auf die häufigsten Fragen rund um das Spiel. Erfahre mehr über Charaktererstellung, Spielmechaniken, Fraktionen und Gesetzesbücher. Hier findest du hilfreiche Tipps und detaillierte Erklärungen, um dein Spielerlebnis zu verbessern. Besuche unsere FAQ-Seite und finde schnell die Informationen, die du benötigst.
 ---
 - [Support und Kontakt]
