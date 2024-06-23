@@ -1,5 +1,5 @@
 ---
-title: test title
+title: 📚 Test
 ---
 
 # test seite
