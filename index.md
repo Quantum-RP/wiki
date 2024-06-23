@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Quantum RP"
   text: "Wiki und mehr"
-  tagline: Unsere Tolle Tagline
+  tagline: Erlebe deine Geschichte, forme deine Zukunft!
   # actions:
   #   - theme: brand
   #     text: Wiki
@@ -15,11 +15,11 @@ hero:
   #     link: /gesetze
 
 features:
-  - title: Feature A
+  - title: Unser Wiki
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Unsere Gesetze
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Unsere Bußgeldkataloge
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
