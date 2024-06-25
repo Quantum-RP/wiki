@@ -38,11 +38,11 @@ index: 4
 `9.` Im Dienst des Staates: Beamte müssen sich bei außerdienstlichen Aktivitäten ausstempeln und außer Dienst gehen. Das bewusste Erschleichen von Leistungen durch Abwesenheit stellt einen Verstoß gegen das BDG dar und wird neben einer Suspendierung auch mit einem entsprechenden Bußgeld bestraft.
    
 `10.` Priorität: Im Falle einer Bedrohung muss das Überleben beteiligter Personen nach folgender Priorisierung sichergestellt werden:
-    - Eigensicherung
-    - Sicherung hoher Beamter
-    - Sicherung anderer Beamter
-    - Sicherung von Zivilisten
-    - Sicherung eventueller Straftäter
+   - `a.` Eigensicherung
+   - `b.` Sicherung hoher Beamter
+   - `c.` Sicherung anderer Beamter
+   - `d.` Sicherung von Zivilisten
+   - `e.` Sicherung eventueller Straftäter
 
 ---
 
@@ -51,36 +51,30 @@ index: 4
 `1.` Platzverweise: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen zeitlich des Platzes verweisen.
    
 `2.` Durchsuchen: Beamte dürfen Personen und Fahrzeuge jederzeit durchsuchen, wenn mindestens einer der folgenden Punkte zutrifft:
-    - Verdacht auf Besitz illegaler Gegenstände
-    - Zur Sicherung von Beweismitteln
-    - Betreten von Sperrgebieten
-    - Bei einer Festnahme (Aufgrund von Eigenschutz)
-    - Person ist auf Bewährung
+   - `a.` Verdacht auf Besitz illegaler Gegenstände
+   - `b.` Zur Sicherung von Beweismitteln
+   - `c.` Betreten von Sperrgebieten
+   - `d.` Bei einer Festnahme (Aufgrund von Eigenschutz)
+   - `e.` Person ist auf Bewährung
    
 `3.` Fesseln von Personen: Beamte können Personen durch den Einsatz von Handschellen, Elektroschocker o.Ä. handlungsunfähig machen, wenn mindestens einer der folgenden Punkte zutrifft:
-    - Akute Bedrohungslage oder erhöhte Gefahr für den Beamten
-    - Bestehende Fluchtwahrscheinlichkeit
-    - Bestehender Anfangsverdacht einer Straftat
-    - Missachtung von Anweisungen oder vorsätzlicher Widerstand gegen Vollstreckungsbeamte
+   - `a.` Akute Bedrohungslage oder erhöhte Gefahr für den Beamten
+   - `b.` Bestehende Fluchtwahrscheinlichkeit
+   - `c.` Bestehender Anfangsverdacht einer Straftat
+   - `d.` Missachtung von Anweisungen oder vorsätzlicher Widerstand gegen Vollstreckungsbeamte
    
-`4.` Hilfsmittel: Beamte dürfen folgende Hilfsmittel während des Dienstes und im Fahrzeug während der Fahrt verwenden:
-    - Telefon
-    - Funkgerät
-    - Navigationsgerät
+`4.` Sonder- und Wegerechte: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, die von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
    
-`5.` Sonder- und Wegerechte: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, die von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
+`5.` Straßensperren: Beamte sind befugt, Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
    
-`6.` Straßensperren: Beamte sind befugt, Straßensperren zu errichten, um Unfälle oder notwendige Arbeiten auf der Straße abzusichern. Diese sind so schnell wie möglich wieder zu entfernen, um den fließenden Verkehr so wenig wie möglich zu behindern.
+`6.` Strafen verhängen: Die Beamten der Bundespolizei und des Ordnungsamtes (Regierung) haben die Befugnis, gemäß des Gesetzbuches Bußgelder und Haftstrafen zu erteilen und durchzusetzen. Dabei gilt es, die StPO zu beachten. Die maximale Höhe der Hafteinheiten und Bußgelder ist im Bußgeldkatalog festgehalten und darf unter keinen Umständen überschritten werden. Eine Minderung des Strafmaßes liegt im Ermessen des durchsetzenden Beamten.
    
-`7.` Strafen verhängen: Die Beamten der Bundespolizei und des Ordnungsamtes (Regierung) haben die Befugnis, gemäß des Gesetzbuches Bußgelder und Haftstrafen zu erteilen und durchzusetzen. Dabei gilt es, die StPO zu beachten. Die maximale Höhe der Hafteinheiten und Bußgelder ist im Bußgeldkatalog festgehalten und darf unter keinen Umständen überschritten werden. Eine Minderung des Strafmaßes liegt im Ermessen des durchsetzenden Beamten.
+`7.` Inhaftierung und Transport von Straftätern: Um einen Straftäter zu inhaftieren, ist es notwendig, diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in dafür vorgesehenen Fahrzeugen durchgeführt werden:
+   - `a.` Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
    
-`8.` Inhaftierung und Transport von Straftätern: Um einen Straftäter zu inhaftieren, ist es notwendig, diesem seine Rechte vorzulesen. Der Transport von Straftätern darf nur in dafür vorgesehenen Fahrzeugen durchgeführt werden:
-    - Polizei Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
-    - Justiz Fahrzeuge aller Art (keine Zivil-Fahrzeuge)
-   
-`9.` Durchsetzen von Regierungsmaßnahmen: Exekutivbeamte dürfen die nach §7 Abs. 1 StGB erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
+`8.` Durchsetzen von Regierungsmaßnahmen: Exekutivbeamte dürfen die nach §7 Abs. 1 StGB erlassenen Maßnahmen nur mit einem dafür ausgestellten, gültigen Dokument durchführen.
 
-`10.` Dienstwaffen: Dienstwaffen dürfen nur mit der dafür notwendigen Freigabe und Ausbildung mitgeführt und verwendet werden. Die Freigabe von Schusswaffen wird in der internen Regelung zur Nutzung von Waffen und Aufsätzen-Verordnung geregelt.
+`9.` Dienstwaffen: Dienstwaffen dürfen nur mit der dafür notwendigen Freigabe und Ausbildung mitgeführt und verwendet werden. Die Freigabe von Schusswaffen wird in der internen Regelung zur Nutzung von Waffen und Aufsätzen-Verordnung geregelt.
 
 ---
 
@@ -89,7 +83,7 @@ index: 4
 `1.` Platzverweise: Ein Beamter kann auf Grundstücken innerhalb seiner Zuständigkeit einzelne Personen oder Personengruppen zeitlich des Platzes verweisen.
    
 `2.` Durchsuchen: Beamte dürfen Personen und Fahrzeuge jederzeit durchsuchen, wenn mindestens einer der folgenden Punkte zutrifft:
-    - Bei Bewusstlosen zur Identitätsfeststellung
+   - `a.` Bei Bewusstlosen zur Identitätsfeststellung
    
 `3.` Sonder- und Wegerechte: Eindeutig durch Einsatzbeleuchtung und Sirene kenntlich gemachte Fahrzeuge sowie Hubschrauber und Flugzeuge, die von Beamten geführt werden, sind von der StVO befreit, müssen aber unter allen Umständen Gefahren für die Öffentlichkeit vermeiden.
    
