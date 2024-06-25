@@ -5,8 +5,6 @@ index: 5
 
 # 🚗 Fahrzeuge
 
-## Hier findest du alle Informationen, die du benötigst, um auf unserem Roleplay-Server einen erfolgreichen Start hinzulegen.
-
 ## Inhaltsverzeichnis
 1. [Fahrzeugtypen](#fahrzeugtypen)
 2. [Fahrzeugkauf](#fahrzeugkauf)
