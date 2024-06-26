@@ -15,9 +15,11 @@ Willkommen in der Kategorie Gesetzestexte. Hier findest du alle relevanten Geset
 1. [Grundgesetz](https://quantum-wiki.pages.dev/gesetze/grundgesetz) 🏆
 2. [Strafgesetzbuch](https://quantum-wiki.pages.dev/gesetze/strafgesetzbuch.html) 📕
 3. [Straßenverkehrsordnung](https://quantum-wiki.pages.dev/gesetze/stvo.html) 📙
-4. Beamtendienstgesetz 📘
-5. Strafprozessordnung 📗
-6. Gewerbeordnung 📒
-7. Betäubungsmittelgesetz 💊
+4. [Beamtendienstgesetz](https://quantum-wiki.pages.dev/gesetze/beamtendienstgesetz.html) 📘
+5. [Strafprozessordnung](https://quantum-wiki.pages.dev/gesetze/stpo.html) 📗
+6. [Gewerbeordnung](https://quantum-wiki.pages.dev/gesetze/gewo.html) 📒
+7. [Betäubungsmittelgesetz](https://quantum-wiki.pages.dev/gesetze/btmg.html) 💊
+
+---
 
 *"Erlebe deine Geschichte, forme deine Zukunft."* 🌍
