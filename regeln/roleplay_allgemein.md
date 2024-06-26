@@ -1,6 +1,6 @@
 ---
 title: 📜 Regelwerk Allgemein
-index: 0
+index: 1
 ---
 
 # 📜 Regelwerk Allgemein
