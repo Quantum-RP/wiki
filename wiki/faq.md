@@ -5,7 +5,7 @@ index: 2
 
 # ❓ FAQ
 
-Hier findest du Antworten auf häufig gestellte Fragen rund um den Quantum RP Server. Die FAQ ist in drei Kategorien unterteilt: Spielinternes FAQ, Technisches FAQ und Roleplay FAQ.
+Hier findest du Antworten auf häufig gestellte Fragen rund um den Quantum Server. Die FAQ ist in drei Kategorien unterteilt: Spielinternes FAQ, Technisches FAQ und Roleplay FAQ.
 
 ## Inhaltsverzeichnis
 1. [Spielinternes FAQ](#spielinternes-faq)
@@ -17,7 +17,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um den Quantum RP Se
 ## Spielinternes FAQ 🎮
 
 <details>
-<summary>🚀 Wie kann ich dem Quantum RP Server beitreten?</summary>
+<summary>🚀 Wie kann ich dem Quantum Server beitreten?</summary>
 Um unseren Server beizutreten solltest du zunächst Mitglied unseres Discord-Servers https://discord.gg/VQJmRy696q sein.
 </details>
 
@@ -46,7 +46,7 @@ Um unseren Server beizutreten solltest du zunächst Mitglied unseres Discord-Ser
 ## Technisches FAQ 🖥️
 
 <details>
-  <summary>💻 Welche Systemanforderungen hat der Quantum RP Server?</summary>
+  <summary>💻 Welche Systemanforderungen hat der Quantum Server?</summary>
   Stelle sicher, dass dein PC die Mindestanforderungen für GTA V erfüllt. Zusätzlich benötigst du eine stabile Internetverbindung und genügend Speicherplatz für Mods und zusätzliche Dateien.
 </details>
 
