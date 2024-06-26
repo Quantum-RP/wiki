@@ -1,5 +1,5 @@
 ---
-title: 📜 Regelwerk Allgemein
+title: 📜 Allgemeines Regelwerk
 index: 1
 ---
 
