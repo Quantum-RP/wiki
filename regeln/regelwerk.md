@@ -9,7 +9,8 @@ index: 0
 ---
 
 # 📚 Willkommen
-Willkommen in der Kategorie Gesetzestexte. Hier findest du alle relevanten Gesetzestexte und Informationen, die das Leben und die Interaktionen in Quantum regeln. Ob Verkehrsrecht, Strafgesetzbuch oder Arbeitsrecht – unsere umfassenden Gesetzesdokumente bieten dir die nötige Orientierung, um sicher und regelkonform zu agieren. Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Vorschriften vertraut zu machen und dein Wissen stets auf dem neuesten Stand zu halten. 📚⚖️
+Willkommen auf der Hauptseite des Regelwerks. Hier findest du alle wichtigen Informationen und Vorschriften.
+Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln vertraut zu machen und dein Wissen stets auf dem neuesten Stand zu halten. 📚
 
 ## Inhaltsverzeichnis
 1. Allgemeines Regelwerk 📜
