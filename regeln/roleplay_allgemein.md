@@ -47,4 +47,4 @@ _Das Regelwerk von Quantum ist aus guten Gründen offener gestaltet, als auf and
 
 ---
 
-Vielen Dank, dass du Teil von Quantum Roleplay bist! Mit der Einhaltung dieser Regeln tragen wir alle zu einer positiven und immersiven Spielerfahrung bei. Viel Spaß im Spiel!
+Vielen Dank, dass du Teil von Quantum bist! Mit der Einhaltung dieser Regeln tragen wir alle zu einer positiven und immersiven Spielerfahrung bei. Viel Spaß im Spiel!
