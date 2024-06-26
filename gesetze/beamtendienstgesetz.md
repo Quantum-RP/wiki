@@ -174,4 +174,4 @@ index: 4
    - `b.` Nicht-planbarer Einsatz: Bundespolizei
    - `c.` Kein Einsatz: Bundesregierung
    
-2. Übertragung von Befehlsgewalt: Die Befehlsgewalt kann durch die Einsatzleitung oder die jeweilige Führung der zuständigen Organisation jederzeit an eine andere Organisation delegiert werden.
+`2.` Übertragung von Befehlsgewalt: Die Befehlsgewalt kann durch die Einsatzleitung oder die jeweilige Führung der zuständigen Organisation jederzeit an eine andere Organisation delegiert werden.
