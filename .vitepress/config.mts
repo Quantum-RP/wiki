@@ -42,8 +42,8 @@ const regeln = getMarkdownFiles(path.join(__dirname, '../regeln'))
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Quantum RP",
-  description: "Quantum RP Wiki und Gesetze",
+  title: "Quantum",
+  description: "Quantum Regeln, Wiki und Gesetze",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
