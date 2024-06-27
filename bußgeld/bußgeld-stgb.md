@@ -6,7 +6,6 @@ index: 0
 # 📑 Strafgesetzbuch
 
 ## §1 StGB Wirtschaftskriminalität
-
 | §1 StGB           | Straftat                             | Strafe                            | Hafteinheiten | Bußgeld   |
 |-------------------|--------------------------------------|-----------------------------------|---------------|-----------|
 | §1 Abs. 1 StGB    | Versuchter Diebstahl                 | -                                 | 5             | 5.000€    |
@@ -26,7 +25,6 @@ index: 0
 ---
 
 ## §2 StGB Waffengesetz
-
 | §2 StGB           | Straftat                             | Strafe                                | Hafteinheiten | Bußgeld   |
 |-------------------|--------------------------------------|---------------------------------------|---------------|-----------|
 | §2 Abs. 1 StGB    | Gezogene Waffe in der Öffentlichkeit | Abnahme Waffe(n)                      | 5             | 10.000€   |
@@ -42,7 +40,6 @@ index: 0
 ---
 
 ## §3 StGB Körperliche Integrität
-
 | §3 StGB           | Straftat                                      | Strafe             | Hafteinheiten | Bußgeld   |
 |-------------------|-----------------------------------------------|--------------------|---------------|-----------|
 | §3 Abs. 1 StGB    | Körperverletzung                              | ggf. Tatwaffe      | 0             | 10.000€   |
@@ -63,7 +60,6 @@ index: 0
 ---
 
 ## §4 StGB Umgang mit Beamten
-
 | §4 StGB           | Straftat                                      | Strafe             | Hafteinheiten | Bußgeld   |
 |-------------------|-----------------------------------------------|--------------------|---------------|-----------|
 | §4 Abs. 1 StGB    | Entziehung/Behinderung einer staatlichen Maßnahme | -              | 0             | 10.000€   |
@@ -83,7 +79,6 @@ index: 0
 ---
 
 ## §5 Sonstiges
-
 | §5 StGB           | Straftat                                                  | Strafe             | Hafteinheiten | Bußgeld   |
 |-------------------|-----------------------------------------------------------|--------------------|---------------|-----------|
 | §5 Abs. 1 StGB    | Nicht einhalten eines Platzverweises                      | -                  | 20            | 60.000€   |
@@ -102,7 +97,6 @@ index: 0
 ---
 
 ## §6 StGB Organisierte Kriminalität
-
 | §6 StGB           | Straftat                                              | Strafe | Hafteinheiten | Bußgeld   |
 |-------------------|-------------------------------------------------------|--------|---------------|-----------|
 | §6 Abs. 1 StGB    | Unterstützung und Werbung für kriminelle Vereinigungen| -      | 10            | 10.000€   |
@@ -110,7 +104,6 @@ index: 0
 ---
 
 ## §7 StGB Staatsmaßnahmen
-
 | §7 StGB           | Straftat                                      | Strafe | Hafteinheiten | Bußgeld   |
 |-------------------|-----------------------------------------------|--------|---------------|-----------|
 | §7 Abs. 1 StGB    | Nicht einhalten der Ausgangssperre            | -      | 60            | 100.000€  |
@@ -118,7 +111,6 @@ index: 0
 ---
 
 ## §9 StGB Terrorismus
-
 | §9 StGB           | Straftat                                              | Strafe | Hafteinheiten | Bußgeld   |
 |-------------------|-------------------------------------------------------|--------|---------------|-----------|
 | §9 Abs. 1a StGB   | Menschenrechtsverletzung                              | -      | 60            | 60.000€   |
@@ -130,7 +122,6 @@ index: 0
 ---
 
 ## §10 StGB Behinderung der Rettungsorgane
-
 | §10 StGB          | Straftat                                              | Strafe | Hafteinheiten | Bußgeld   |
 |-------------------|-------------------------------------------------------|--------|---------------|-----------|
 | §10 Abs. 1 StGB   | Bewusstlosigkeit durch mangelnde Ernährung            | -      | 0             | 50.000€   |
