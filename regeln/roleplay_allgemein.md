@@ -5,9 +5,9 @@ index: 1
 
 # 📜 Allgemeines Regelwerk
 
-_Willkommen bei Quantum!_
-_Um ein immersives und angenehmes Spielerlebnis für alle zu gewährleisten, haben wir ein Regelwerk erstellt, das alle Spieler einhalten müssen. Bitte lies die folgenden Regeln sorgfältig durch und halte dich daran._
-_Das Regelwerk von Quantum ist aus guten Gründen offener gestaltet, als auf anderen Servern. Uns ist es wichtig, euch allen die Möglichkeit zu bieten, maximalen Freiraum für gutes Roleplay zu bieten._
+**Willkommen bei Quantum!**
+Um ein immersives und angenehmes Spielerlebnis für alle zu gewährleisten, haben wir ein Regelwerk erstellt, das alle Spieler einhalten müssen. Bitte lies die folgenden Regeln sorgfältig durch und halte dich daran.
+Das Regelwerk von Quantum ist aus guten Gründen offener gestaltet, als auf anderen Servern. Uns ist es wichtig, euch allen die Möglichkeit zu bieten, maximalen Freiraum für gutes Roleplay zu bieten.
 
 ## §1 - Allgemeines Verhalten
 ### `1.1` Respekt und Höflichkeit:
