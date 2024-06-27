@@ -28,17 +28,12 @@ index: 2
 - Während der Bewusstlosigkeit ist es verboten, mit anderen Personen zu sprechen oder zu interagieren.
 - Nach dem Medic-RP darf der bewusstlose Charakter wieder an der Situation teilnehmen.
 
-### `1.5` Nutzung von Drittprogrammen und Cheats:
-- Der Einsatz von Hacks, Cheats, Mod-Menüs, NoProps, Faster Fire Rate, Damage Multiplier, No-Water-Pack, Bugs, Makros oder jegliche Art von unterstützender AI, die dir oder anderen Spielern einen unfairen Vorteil verschaffen, ist strengstens verboten.
-- Wer Bugs oder Personen entdeckt, die Tools und Menüs ausnutzen, muss diese umgehend melden. Der Versuch wird ebenfalls mit einem **permanenten Ausschluss** geahndet.
-- Verstöße gegen diese Regel führen zu einem **sofortigen und permanenten Ausschluss** vom Server.
-
-### `2.6` Powergaming:
+### `2.5` Powergaming:
 - Unzulässige Nutzung von Mechaniken oder Mitteln, die nicht im Spiel vorhanden sind oder unrealistisch sind, um Vorteile zu erlangen, ist verboten (z.B. Einparken eines Fahrzeugs während einer RP-Situation).
 - Auch das sofortige Abhauen oder Schießen nach einer Wiederbelebung durch Sanitäter fällt darunter.
 - Das Ausspielen von unrealistischen Superheldenkräften ist zwar nicht verboten, aber andere Spieler müssen dies nicht akzeptieren.
 
-### `2.7` Charakter Kill:
+### `2.6` Charakter Kill:
 - Ein permanenter Charaktertod bedeutet den Verlust aller im Besitz befindlichen Items.
 - Der Charaktertod muss von der Projektleitung und deren Stellvertretung genehmigt werden und eine ausführliche Hintergrundgeschichte für den neuen Charakter muss vorgelegt werden.
 - Ein Charaktertod kann auch durch ein Bloodout einer illegalen Fraktion ausgelöst werden, wenn der Fraktionsleiter dies beantragt.
@@ -48,47 +43,47 @@ index: 2
 - Die Projektleitung kann jederzeit einen Charakterkill unabhängig von den oben genannten Punkten durchführen.
 - Jeder Charakterkill, der durch eine dritte Person initiiert wird, wird im Support mit dem betroffenen Spieler besprochen.
 
-### `2.8` Away From Keyboard (AFK) / RP-Flucht:
+### `2.7` Away From Keyboard (AFK) / RP-Flucht:
 - Bei längerer Abwesenheit von mehr als 5-10 Minuten muss das Spiel verlassen werden.
 - Ein Ausloggen während einer laufenden RP-Situation ist verboten.
 - Auch während des Farmens muss man ansprechbar sein, andernfalls ist ein Ausloggen erforderlich.
  
-### `2.9` Random Deathmatch (RDM):
+### `2.8` Random Deathmatch (RDM):
 - Angriffe auf andere Spieler oder Gruppen ohne RP-Hintergrund sind verboten.
 
-### `2.10` Safezone:
+### `2.9` Safezone:
 - In Safezones sind Gewalt und Verbrechen untersagt, es sei denn, es handelt sich um eine laufende RP-Situation.
 - Bei Provokationen in der Safezone wird der Schutz für die provozierende Person aufgehoben.
 - Safezones umfassen Krankenhaus, Würfelpark, Eventbereiche und legale Farmingrouten wie z.B. die Miene.
 
-### `2.11` Kleidungsvorschrift:
+### `2.10` Kleidungsvorschrift:
 - Outfits dürfen nicht verbuggen oder unrealistisch wirken.
 - Staatliche Kleidung darf nur von Mitgliedern der entsprechenden Fraktionen getragen werden.
 - Kleidung von Crime-Organisationen dürfen nur von Mitgliedern der entsprechenden Fraktion getragen werden.
 - Schuhe auszuziehen, um einen taktischen Vorteil zu erlangen, ist verboten.
 
-### `2.12` Stimmverzerrer, Vermummungen und Masken:
+### `2.11` Stimmverzerrer, Vermummungen und Masken:
 - Stimmenverzerrer dürfen nur genutzt werden, wenn man maskiert ist und die RP-Situation es zulässt.
 - Stimmenverzerrer dürfen nicht zum Trollen anderer Spieler verwendet werden.
 - Träger von Masken dürfen anhand ihrer normalen Stimme erkannt werden.
 - Ohne eindeutige Beweise dürfen keine Anschuldigungen gemacht werden.
 
-### `2.13` New Life Rule (NLR):
+### `2.12` New Life Rule (NLR):
 - Nach einer Notoperation oder Gedächtnisstörung kann sich der Charakter nicht an die letzte RP-Situation erinnern und darf nicht daran teilnehmen.
 - RP-Situationen enden bei Inhaftierung in der JVA (Staatsgefängnis).
 
-### `2.14` IC und OOC:
+### `2.13` IC und OOC:
 - Beleidigungen im Spiel dürfen nicht persönlich genommen werden.
 - Persönliche Konflikte außerhalb des Spiels dürfen nicht ins RP übertragen werden.
 
-### `2.15` Besitztümer und Bereicherung:
+### `2.14` Besitztümer und Bereicherung:
 - Die Übernahme von Besitz oder Eigentum eines anderen Spielers, der den Server verlässt oder einen Charaktertod erlebt, ist verboten.
 - Überfälle ohne RP-Hintergrund sind verboten. Die maximale Abnahmemenge bei Überfällen beträgt eine Waffe, 50% des Geldes und 50% eines Gegenstandes.
 - Bereicherungs-RP ist nicht gestattet.
 - Während einer aktiven RP-Situation dürfen zuvor abgenommene Waffen nicht eingelagert werden.
   - Offizielle Fraktionen haben automatisch einen RP-Hintergrund
  
-### `2.16` Schlösser und Türen:
+### `2.15` Schlösser und Türen:
 - Abschließbare Türen dürfen nicht zum Einschließen von Personen genutzt werden, außer es handelt sich um erkennbare RP-Türen wie Gefängnistüren.
 - Abschließbare Schlösser dürfen ebenfalls nicht zum Einschließen von Personen genutzt werden.
 - Mit Dietrich geöffnete Türen und Schlösser dürfen nicht unmittelbar danach wieder verschlossen werden.
