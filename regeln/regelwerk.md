@@ -14,10 +14,9 @@ Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln ver
 
 ## Inhaltsverzeichnis
 1. Allgemeines Regelwerk 📜
-2. Roleplay Allgemein 🎭
-3. Roleplay Erweitert 🚀
-4. Roleplay Staatliche Fraktionen 🛡️
-5. Roleplay Crime 🕵️‍♂️
+2. Roleplay Erweiter 🎭
+3. Roleplay Staatliche Fraktionen 🛡️
+4. Roleplay Crime 🕵️‍♂️
 
 ---
 
