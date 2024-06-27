@@ -9,19 +9,7 @@ index: 4
 ### `4.1` Cop-Baiting
 - Das absichtliche Provozieren der Polizei ohne RP-Hintergrund ist verboten. Beispielsweise, die Polizei ohne Grund belästigen oder durch absichtlich schlechtes Fahren eine Verkehrskontrolle provozieren.
 
-- Konfiszierte Gegenstände dürfen von Mitgliedern staatlicher Fraktionen nicht behalten werden. Dies gilt auch für Inhalte und aufgebrochene Fahrzeuge.
-
-- Gegenstände aus staatlichen Shops (Waffen, Rüstung, Westen) dürfen nicht an andere Fraktionen weitergegeben oder außerhalb des Dienstes genutzt werden.
-
-- Führungspositionen der staatlichen Fraktionen sind Korruption und kriminelle Handlungen untersagt. Ein Antrag auf Korruption muss durch die Projektleitung, der Stellvertretung und dem Management genehmigt werden.
-
-- Polizeibeamte, Zollbeamte und Regierungsbeamte dürfen nur die Waffen benutzen, für die sie ausgebildet wurden.
-
-- Es ist verboten, Informationen aus dem Funk einer anderen staatlichen Fraktion an Dritte weiterzugeben. Korruption mit solchen Informationen ist ebenfalls untersagt.
-
-- Bei der Erstellung eines Akteneintrags dürfen maximal drei Strafen kombiniert werden, und der Bußgeldkatalog gibt die Höchststrafen vor. Es sind keine Verdoppelungen nach Ermessen erlaubt. Für eine einzelne RP-Situation darf nur ein Akteneintrag erstellt werden. Spieler dürfen nicht länger eingesperrt werden, als die Akteneinträge es vorsehen. Die Höhe der Bußgelder richtet sich nach dem offiziellen Bußgeldkatalog.
-
-- Ein Mitarbeiter in Bereitschaft ist von der Regel `3.1.1.` befreit, muss aber seine Aktivität sofort unterbrechen, wenn ein Einsatz ansteht. Aktivitäten müssen jederzeit abgebrochen werden können.
+- Das gleiche gilt für Crime-Baiting. Fraktionen dürfen nicht ohne RP-Hintergrund unnötig provoziert werden, beispielsweise durch das tragen der beantragten Fraktionskleidung oder pöbeln in den Hoods/Standorten.
 
 ### `4.2` Kein Feuern ohne vorheriges Roleplay
 - Das Abfeuern von Schusswaffen, Verbreiten von Gewalt oder Stiften von Unruhe ohne sinnvollen RP-Hintergrund ist untersagt.
