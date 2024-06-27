@@ -1,9 +1,9 @@
 ---
-title: 📕 Strafgesetzbuch
+title: 📑 Strafgesetzbuch
 index: 0
 ---
 
-# 📕 Strafgesetzbuch
+# 📑 Strafgesetzbuch
 
 ## §1 StGB Wirtschaftskriminalität
 
