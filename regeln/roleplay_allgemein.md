@@ -1,9 +1,9 @@
 ---
-title: 📜 Allgemeines Regelwerk
+title: 📜 Allgemeines Roleplay
 index: 1
 ---
 
-# 📜 Allgemeines Regelwerk
+# 📜 Allgemeines Roleplay
 
 _Willkommen bei Quantum!_
 _Um ein immersives und angenehmes Spielerlebnis für alle zu gewährleisten, haben wir ein Regelwerk erstellt, das alle Spieler einhalten müssen. Bitte lies die folgenden Regeln sorgfältig durch und halte dich daran._
