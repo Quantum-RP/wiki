@@ -1,6 +1,6 @@
 ---
-title: 📘 Beamtendienstgesetz
+title: 📑 Beamtendienstgesetz
 index: 2
 ---
 
-# 📘 Beamtendienstgesetz
+# 📑 Beamtendienstgesetz
