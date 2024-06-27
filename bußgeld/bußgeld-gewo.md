@@ -1,6 +1,6 @@
 ---
-title: 📒 Gewerbeordnung
+title: 📑 Gewerbeordnung
 index: 4
 ---
 
-# 📒 Gewerbeordnung
+# 📑 Gewerbeordnung
