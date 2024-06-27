@@ -1,9 +1,9 @@
 ---
-title: 🎭 Regelwerk Allgemein
+title: 🎭 Roleplay Allgemein
 index: 2
 ---
 
-# 🎭 Regelwerk Erweitert
+# 🎭 Roleplay Erweitert
 
 ## §2 - Allgemeines
 ### `2.1` Respekt und Höflichkeit:
