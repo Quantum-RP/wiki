@@ -1,9 +1,9 @@
 ---
-title: 🛡️ Roleplay Staatliche Fraktionen
+title: 🛡️ Roleplay Staatliche Fraktion
 index: 3
 ---
 
-# 🛡️ Roleplay Staatliche Fraktionen
+# 🛡️ Roleplay Staatliche Fraktion
 
 ## §3 - Staatliche Fraktion
 ### `3.1.` Im Dienst einer staatlichen Fraktion
