@@ -18,7 +18,7 @@ index: 2
 
 - Discord-Server der Fraktionen dürfen für Terminabsprachen und Abstimmungen verwendet werden.
 
-- IC-Bereiche auf dem Altera Vita RP Discord Server dürfen für IC-Zwecke genutzt werden.
+- IC-Bereiche auf dem Quantum Discord Server dürfen für IC-Zwecke genutzt werden.
 
 - Alle von uns bereitgestellten Online-Portale (z.B. Polizei-Intranet) dürfen zweckgebunden für Metagaming verwendet werden.
 
