@@ -15,13 +15,13 @@ hero:
   #     link: /gesetze
 
 features:
-  - title: [Unser Wiki](https://quantum-wiki.pages.dev/wiki/einreise.html)
+  - title: Unser Wiki
     details: Entdecke alle Informationen und Hilfestellungen rund um Quantum.
-  - title: [Unser Regelwerk](https://quantum-wiki.pages.dev/regeln/regelwerk.html)
+  - title: Unser Regelwerk
     details: Verstehe die Grundlagen und Spielregeln, die ein faires und spannendes Spielerlebnis garantieren.
-  - title: [Unsere Gesetze](https://quantum-wiki.pages.dev/gesetze/welcome.html)
+  - title: Unsere Gesetze
     details: Lerne die Regeln und Vorschriften kennen, die das Leben in Quantum leiten.
-  - title: [Unsere Bußgeldkataloge](https://quantum-wiki.pages.dev/bußgeld/bußgeld-stgb.html)
+  - title: Unsere Bußgeldkataloge
     details: Informiere dich über die Konsequenzen und Strafen bei Ordnungswidrigkeiten und Straftaten.
 ---
 
