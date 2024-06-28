@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Quantum"
-  text: "Regelwerk, Wiki und mehr!"
+  text: "Regelwerk und mehr!"
   tagline: Erlebe deine Geschichte, forme deine Zukunft!🌎
   # actions:
   #   - theme: brand
