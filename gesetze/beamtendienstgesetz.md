@@ -117,7 +117,7 @@ index: 4
 
 `2.` Folgende Mitarbeiter fallen unter das Immunitätsgesetz §5:
 - `a. Bundeskanzler und Vizekanzler`
-- `b. Präsident, Vizepräsident und Direktionspräsidenten der Bundespolizei`
+- `b. Präsident, Vizepräsident und Direktionspräsidenten der Bundespolizei (SchuPo-Abteilung)`
 - `c. Ärztliche Direktion und Chefarzt des Rettungsdienstes`
 
 `3.` Jedes Verfahren gegen eine andere Person, jede Haft und jede sonstige Beschränkung seiner persönlichen Freiheit sind auf Verlangen der in `§5 Abs. 2a/b` genannten Staatsbeamten auszusetzen.
