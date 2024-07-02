@@ -1,6 +1,6 @@
 ---
 title: 🕵️‍♂️ Fraktionsregelwerk
-index: 4
+index: 3
 ---
 
 # 🕵️‍♂️ Fraktionsregelwerk
