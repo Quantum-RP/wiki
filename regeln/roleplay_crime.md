@@ -46,7 +46,7 @@ index: 4
 - Aus einem Helikopter darf nur geschossen werden, wenn dieser zuerst beschossen wurde. Die Schussfreigabe erlischt, wenn sich die Parteien aus den Augen verlieren.
 
 ### `4.6` Ausrauben
-- Folgende Gegenstände dürfen nicht entwendet werden: legal erfarmte Rohstoffe, herstellbare Endprodukte, Eventgegenstände und Items aus dem VC-Shop.
+- Folgende Gegenstände dürfen nicht entwendet werden: legal erfarmte Rohstoffe, herstellbare Endprodukte, Eventgegenstände.
 
 - Es ist verboten, Neueinreisenden Geld auf unfaire Weise abzunehmen.
 
