@@ -15,6 +15,8 @@ Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln ver
 **Kurzfristige Ankündigungen im Kanal 🔀 ┃ regel-änderung vom Quantum Discord sind als Ergänzungen zum Regelwerk zu beachten. Ein Verstoß wird als Regelverstoß geahndet.
 Folgende Punkte sind auf Quantum verboten:**
 
+---
+
 <details>
 <summary>1. Allgemeines 📜</summary>
 
