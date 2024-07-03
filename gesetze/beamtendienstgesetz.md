@@ -1,6 +1,6 @@
 ---
 title: 📘 Beamtendienstgesetz
-index: 4
+index: 
 ---
 
 # 📘 Beamtendienstgesetz (BDG)
