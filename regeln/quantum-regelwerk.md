@@ -44,7 +44,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 `1.13` Support-Gespräche sind nicht öffentlich und dürfen nicht gestreamt oder aufgezeichnet werden.
 
-`1.14` Längere Abwesenheiten sowie RP-Pausen, die länger als 3 Wochen dauern, müssen beim Support im Teamspeak gemeldet werden, um RP-Flucht auszuschließen, ggf. Mietkosten zu reduzieren und euren Charakter zu sichern.
+`1.14` Längere Abwesenheiten sowie RP-Pausen, die länger als 3 Wochen dauern, müssen beim Support im Discord gemeldet werden, um RP-Flucht auszuschließen, ggf. Mietkosten zu reduzieren und euren Charakter zu sichern. Erstelle dafür ein Ticket im Support-Bereich und gib uns die Länge deiner Abwesenheit an.
 
 `1.15` Bei längeren Abwesenheiten ohne Abmeldung behält sich der Support vor, den Charakter zu löschen.
 
