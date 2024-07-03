@@ -13,10 +13,45 @@ Willkommen auf der Hauptseite des Regelwerks. Hier findest du alle wichtigen Inf
 Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln vertraut zu machen und dein Wissen stets auf dem neuesten Stand zu halten. 📚
 
 ## Inhaltsverzeichnis
-1. Allgemeines Regelwerk 📜
-2. Roleplay Regelwerk
-3. Fraktionsregelwerk
-4. Discord Regelwerk
+`1.` Allgemeines 📜
+
+`2.` Whitelist und Einreise 🛫
+
+`3.` Allgemeine Beriffe und Regeln an die sich alle Quantum Spieler halten müssen 📚
+
+`4.` Die Schussankündigung 🔫
+
+`5.` Das Leben deines Charakters 💙
+
+`6.` Los Santos 🎡
+
+`7.` Alte Freunde Regel 😊
+
+`8.` Gruppierungen & Fraktionen 🕵️‍♂️
+
+`9.` Korruption 🤑
+
+`10.` Ausreise oder Tod deines Charakters 👼
+
+`11.` Teamspeak 🔊
+
+`12.` Die Bewusstlosigkeit 👀
+
+`13.` Eventcharakter 🎁
+
+`14.` Personen erkennen 🔍
+
+`15.` Festnahmen / Entführungen 🚓
+
+`16.` Geldautomaten 💲
+
+`17.` Raube / Diebstähle 💎
+
+`18.` Streaming 📹
+
+`19.` Sonstiges 🤫
+
+`20.` Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
 
 ---
 
