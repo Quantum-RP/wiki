@@ -4,7 +4,7 @@ index: 0
 ---
 
 > [!TIP]
-> Wir bitten die Regeln zu lesen und zu verstehen, bevor du auf unserem Server spielst. Generell gilt: Unwissenheit schützt vor Strafen nicht. Wir fragen unser Regelwerk in einem Whitelist-Fragebogen ab.
+> Der Leitgedanke von Quantum dreht sich um realistisches, authentisches und einem engagiertem Rollenspielerlebnis für alle Spielerinnen und Spieler.
 
 ---
 
