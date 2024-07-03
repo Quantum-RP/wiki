@@ -4,7 +4,7 @@ index: 0
 ---
 
 > [!WARNING]
-> Die hier beschriebenen Gesetze und Bußgelder sind nicht in der realen Welt gültig und beziehen sich ausschließlich auf die Spielwelt von **Quantum** im Videospiel **Grand Theft Auto 5**.
+> Das Projekt **Quantum** weist darauf hin, dass diese Gesetze rein fiktiv sind und mit den echten Gesetzen der Bundesrepublik Deutschland nichts zu tun haben. Die beschrieben Gesetze sind auf das Videospiel Grand Theft Auto V bezogen.
 
 ---
 
