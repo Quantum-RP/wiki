@@ -1,6 +1,6 @@
 ---
 title: 📑 Strafprozessordnung
-index: 
+index: 0
 ---
 
 # 📑 Strafprozessordnung
