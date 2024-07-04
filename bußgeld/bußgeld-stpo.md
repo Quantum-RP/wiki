@@ -1,5 +1,5 @@
 ---
-title: 📑 Strafprozessordnung
+title:
 index: 
 ---
 
