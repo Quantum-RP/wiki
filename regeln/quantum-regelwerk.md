@@ -117,7 +117,6 @@ Folgende Punkte sind auf Quantum verboten:**
 > `5.1` Die oberste Priorität ist das Leben deines Charakters, nicht dessen Besitz. Spiele verantwortungsvoll und vermeide absichtliche Handlungen, die zum dauerhaften Verlust führen könnten. Achte stets auf die Gesundheit deines Charakters, da jeder Schuss möglicherweise tödlich sein kann und dein Charakter unter Umständen nicht mehr aufsteht.
 >
 > `5.2` Denke stets an die physische Belastbarkeit deines Charakters und handle entsprechend.
-</details>
 
 ---
 
