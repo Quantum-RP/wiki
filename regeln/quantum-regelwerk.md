@@ -226,7 +226,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-14. Personen erkennen 🔍
+## 14. Personen erkennen 🔍
 > Personen haben die Möglichkeit, ihre Identität zu verschleiern und zu verbergen. Folgende Grundvoraussetzungen sind dafür notwendig:
 >
 > `14.1` Maskierte Personen (mindestens Maske, Brille und Kopfbedeckung), dürfen nicht anhand der Stimme, des Akzents oder des Dialekts erkannt werden.
