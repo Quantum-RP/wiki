@@ -73,7 +73,7 @@ Folgende Punkte sind auf Quantum verboten:**
 > ## 3. Allgemeine Begriffe und Regeln an die sich alle Quantum Spieler halten müssen 📚
 > Hier ein paar, allgemeine Begrifflichkeiten, die du verinnerlichen solltest.
 > 
-> `3.1` Alles was du im Spiel, also "In Character" (IC) erlebst, darfst du auch nur im Spiel verwenden.
+> `3.1` Alles was du im Spiel, also In Character erlebst, darfst du auch nur im Spiel verwenden.
 > 
 > `3.2` **Out Of Character [OOC]**: Alles, was außerhalb des Spiels passiert, fällt unter OOC und darf IC nicht verwendet werden. Bei OOC-Verhinderungen, die IC-Abwesenheit verhindern, ist der Support zu informieren.
 > 
