@@ -152,51 +152,117 @@ Du kannst diese Regel mit maximal zwei weiteren Freunden nutzen.
 
 <details>
 <summary>8. Gruppierungen & Fraktionen 🕵️‍♂️</summary>
+Crime ist essentiell für jeden Roleplay Server. Wir haben uns Gedanken gemacht über folgende Regelungen:
+
+`8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **3 Personen** erlaubt.
+
+`8.2` Um eine Fraktion zu gründen sind mindestens **4 Personen** notwendig.
+
+`8.3` Die Grenze von 12. Mitgliedern pro Fraktionen darf nicht überschritten werden.
 </details>
+
+---
 
 <details>
 <summary>9. Korruption 🤑</summary>
+**Korruption** bezieht sich auf Handlungen und Entscheidungen, die sich auf Bestechlichkeiten und Integrität von Personen oder staatlichen Institutionen auswirken. Korruption kann sich in verschiedene Arten auszeichnen. Generell gilt; Führungspositionen der staatlichen Institutionen ist Korruption untersagt.
+
+`9.1` Korruption durch Bestechlichkeit
+
+`9.2` Korruption durch Vetternwirtschaft
+
+`9.3` Korruption durch Amtsmissbrauch
+
+**Beispiele** für Korruption könnten sein:
+
+`9.4` Annahme von Geld um Akten zu manipulieren
+
+`9.5` Annahme von Geld um Daten aus Akten preiszugeben
+
+`9.6` Annahme von Geld um Ermittlungen oder Urteile zu beeinflussen
+
+`9.7` Bevorzugen von Verwandten und Freunden
 </details>
+
+---
 
 <details>
 <summary>10. Ausreise oder Tod deines Charakters 👼</summary>
+
+  Die Ausreise und damit die dauerhafte Löschung deines Charakters muss vorab im Discord-Support angemeldet und genehmigt werden. Folgende Voraussetzungen gelten für die Ausreise:
+
+- Alle laufenden RP-Stränge und Handlungen müssen abgeschlossen sein.
+- Die Schenkung oder Annahme von Wertgegenständen sind in Maßen erlaubt.
+- Der Verkauf oder Kauf von Wertgegenständen zu Niedrigstpreisen ist untersagt.
+
+Um den Charakter eines anderen Spielers permanent zu töten, ist ein schriftlicher Hinrichtungsantrag bei der Projektleitung erforderlich. Dieser Antrag muss klare Beweggründe enthalten und die Hinrichtung sollte die letzte Möglichkeit im Rollenspiel sein. Nach Genehmigung durch das PL-Team gilt der Antrag für beide Parteien. Eine Hinrichtung muss aufgezeichnet und dem Support vorgelegt werden.
+
+1. Beweggründe müssen in einem Hinrichtungsantrag deutlich formuliert sein. Eine Ausschaltung wird nur genehmigt, wenn sich die Charaktere nicht unlösbar verzahnt haben.
+2. Eine Ausschaltung muss nicht zwingend eine Hinrichtung oder der Tod sein.
+3. Nach Genehmigung einer Ausschaltung gilt automatisch eine Genehmigung gegenüber dem Antragsteller. Beide Charaktere können in diesem Zeitraum ausgeschaltet werden (permanente Löschung).
 </details>
+
+---
 
 <details>
 <summary>12. Teamspeak 🔊</summary>
+Folgendes gilt auf unserem Server während des Spielens:
+
+1. Die Anwesenheit im Teamspeak ist eine Grundvoraussetzung.
+2. Die Nutzung anderer Programme wie zum Beispiel Discord zur Kommunikation während des Roleplays sind verboten.
+3. Bitte vermeidet Störgeräusche und störende Geräusche im Hintergrund.
+4. Dein Mikrofon bzw. Headset muss eine ausreichende Qualität haben.
 </details>
+
+---
 
 <details>
 <summary>12. Die Bewusstlosigkeit 👀</summary>
 </details>
 
+---
+
 <details>
 <summary>13. Eventcharakter 🎁</summary>
 </details>
+
+---
 
 <details>
 <summary>14. Personen erkennen 🔍</summary>
 </details>
 
+---
+
 <details>
 <summary>15. Festnahmen / Entführungen 🚓</summary>
 </details>
+
+---
 
 <details>
 <summary>16. Geldautomaten 💲</summary>
 </details>
 
+---
+
 <details>
 <summary>17. Raube / Diebstähle 💎</summary>
 </details>
+
+---
 
 <details>
 <summary>18. Streaming 📹</summary>
 </details>
 
+---
+
 <details>
 <summary>19. Sonstiges 🤫</summary>
 </details>
+
+---
 
 <details>
 <summary>20. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾</summary>
