@@ -204,39 +204,95 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-12. Die Bewusstlosigkeit 👀
+## 12. Die Bewusstlosigkeit 👀
+> In der Bewusstlosigkeit gehören einige Merkmale dazu, welche es zu beachten gilt:
+> `12.1` Informationen, die du während deiner Bewusstlosigkeit erhältst, dürfen nicht verwendet werden.
+>
+> `12.2` Einer bewusstlosen Person sollte prinzipiell immer geholfen werden.
+>
+> `12.3` Versuche immer deine Verletzungen auszuspielen. Wenn du dich mit einem Fahrzeug überschlägst, dann solltest du dich benommen fühlen und einen Arzt rufen.
 
 ---
 
-13. Eventcharakter 🎁
+## 13. Eventcharakter 🎁
+> Es gibt neben einigen IC-Veranstaltungen auch Events, welche durch das Serverteam gesteuert werden. So möchten wir den Spielern weitere Möglichkeiten bieten, interaktives und spannendes Roleplay zu spielen.
+> 
+> `13.1` Eventcharaktere sind wie normale Spieler zu behandeln.
+>
+> `13.2` Administrative Funktionen dürfen im Roleplay nicht angespielt werden (OOC-Talk).
+>
+> `13.3` Spannende Events, welche spezielle Peds benötigen, können einmalig im Discord-Support angefragt werden.
 
 ---
 
 14. Personen erkennen 🔍
+> Personen haben die Möglichkeit, ihre Identität zu verschleiern und zu verbergen. Folgende Grundvoraussetzungen sind dafür notwendig:
+>
+> `14.1` Maskierte Personen (mindestens Maske, Brille und Kopfbedeckung), dürfen nicht anhand der Stimme, des Akzents oder des Dialekts erkannt werden.
+>
+> `14.2` Bei einer unterdrückten Nummer darf die Stimme nicht erkannt werden.
+>
+> `14.3` Ein Stimmverzerrer ist bei einer unterdrückten Nummer erlaubt. Wichtig ist, dass man die Stimme noch verstehen muss.
 
 ---
 
-15. Festnahmen / Entführungen 🚓
+## 15. Festnahmen / Entführungen 🚓
+> Bei Festnahmen oder Entführungen muss sich per se um die gefesselte Person gekümmert werden. Es muss ein Garant sichergestellt werden, dass die Person kontinuierliches Roleplay erlebt.
+>
+> `15.1` Gefesselte Personen müssen durchgehend ins Roleplay einbezogen werden.
+>
+> `15.2` Gefesselte Personen müssen bei "Leerphasen" ohne Interaktion freigelassen oder entlassen werden.
+>
+> `15.3` RP-Flucht oder Power-RP findet dann Gebrauch, wenn Personen stehengelassen oder bei Nicht-Roleplay mit einbezogen werden.
 
 ---
 
-16. Geldautomaten 💲
+## 16. Geldautomaten 💲
+> Spieler dürfen nicht ohne ausreichendes Roleplay dazu gezwungen werden, Geld vom Automaten abzuheben.
+>
+> `16.1` Bereicherung durch mangelnden Roleplay-Hintergrund ist verboten.
+>
+> `16.2` Bereicherung findet auch dann statt, wenn Personen ohne triftigen Hintergrund ausgeraubt werden.
 
 ---
 
-17. Raube / Diebstähle 💎
+## 17. Raube / Diebstähle 💎
+> Wie in Absatz **16. Geldautomaten 💲** bereits niedergeschrieben, sind auch bei Räuben oder Diebstählen folgendes zu beachten:
+>
+> `17.1` Bei einem Raub oder Diebstahl ist darauf zu achten, der Person ausreichendes Roleplay zu bieten. "Hände hoch und gib mir deine Sachen" ist kein Roleplay.
+>
+> `17.2` Achtet darauf, dass immer genügend Reaktionszeit (mind. 5 - 10 Sekunden) gegeben wird. Dies gilt auch für das Opfer in dem Szenario.
+>
+> `17.3` Equipment des Rettungsdienstes, der Polizei oder der Regierung bedarf einem ausreichend, plausbilen Roleplay-Hintergrund
+>
+> `17.4` Überfälle auf Gewerbe bedürfen auch einem ausreichenden Roleplay-Hintergrund.
+>
+> `17.5` Achtet auf die Verhältnismäßigkeit bei der Abnahme von Gegenständen. Entwedet ihr beispielsweise lieber Geld oder Schmuck? Ist der Diebstahl von Essen und Trinken notwendig?
+>
+> `17.6` Raube oder Diebstähle sollten zu nachvollziehbaren Uhrzeiten stattfinden, so ist beispielsweise 5 Uhr am Morgen nicht sinnhaft.
+>
+> `17.7` Sollte ein Raub oder ein Diebstahl nicht verhältnismäßig sein, sieht sich das Team vor, die Sachen zu entfernen bzw. zu erstatten.
 
 ---
 
-18. Streaming 📹
+## 18. Streaming 📹
+> Das Streamen auf Social Media Plattformen bedarf grundsätzlich keiner gesonderten Erlaubnis. Achte darauf, dass dein Stream RP-fördernd und nicht Server-schädigend ist.
+> 
+> `18.1` Stream-Sniping, also wer sich während dem Roleplay in einem Stream befindet, welcher auf Quantum stattfindet, wird nach **18.1** als Stream-Sniper bestraft.
 
 ---
 
-19. Sonstiges 🤫
+## 19. Sonstiges 🤫
+> Prinzipiell gilt:
+> `19.1` Roleplay-Szenarien sind immer zu beenden, bevor der Support aufgesucht wird.
+>
+> `19.2` **Roleplay-Szenarien wie Extreme-RP, Rape-RP oder Szenarien, welche gegen deutsches Recht verstoßen, müssen sofort abgebrochen und gemeldet werden!!**
 
 ---
 
-20. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
+## 20. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
+> Es gilt zu beachten:
+> `20.1` Wer auf unserem Projekt spielt, gibt sich damit einverstanden, dass das Roleplay in Ton und Bild veröffentlich werden könnte.
 
 ---
 
