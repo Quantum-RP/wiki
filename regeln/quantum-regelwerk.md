@@ -17,7 +17,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 1. Allgemeines 📜
+## 1. Allgemeines 📜
 >
 > `1.1` Grundlose / übertriebene Beleidigungen, Rassismus, Sexismus, sexuelle Handlungen / Anspielungen, Mobbing und Diskriminierung
 >
@@ -53,7 +53,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 2. Whitelist und Einreise 🛫
+## 2. Whitelist und Einreise 🛫
 > Das öffentliche und/oder gemeinsame Bearbeiten des Fragebogens und der Charaktergeschichte ist verboten, dazu zählt insbesondere auch:
 >
 > `2.1` Das Fragen nach Lösungen für den Fragebogen.
@@ -70,7 +70,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 3. Allgemeine Begriffe und Regeln an die sich alle Quantum Spieler halten müssen 📚
+## 3. Allgemeine Begriffe und Regeln an die sich alle Quantum Spieler halten müssen 📚
 > Hier ein paar, allgemeine Begrifflichkeiten, die du verinnerlichen solltest.
 >
 > `3.1` Alles was du im Spiel, also In Character erlebst, darfst du auch nur im Spiel verwenden.
@@ -99,7 +99,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 4. Die Schussankündigung 🔫
+## 4. Die Schussankündigung 🔫
 > Quantum verzichtet ganz bewusst auf Schussankündigungen. Vor jedem Schuss sollte man sich prinzipiell, folgende Fragen gestellt haben:
 >
 > `4.1` Ist der Schuss notwendig? Hat dies eventuell Konsequenzen für mich?
@@ -112,7 +112,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 5. Das Leben deines Charakters 💙
+## 5. Das Leben deines Charakters 💙
 >
 > `5.1` Die oberste Priorität ist das Leben deines Charakters, nicht dessen Besitz. Spiele verantwortungsvoll und vermeide absichtliche Handlungen, die zum dauerhaften Verlust führen könnten. Achte stets auf die Gesundheit deines Charakters, da jeder Schuss möglicherweise tödlich sein kann und dein Charakter unter Umständen nicht mehr aufsteht.
 >
@@ -121,14 +121,14 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 6. Los Santos 🎡
+## 6. Los Santos 🎡
 > Quantum bespielt die "Millionstadtprinzip" - Regel:
 >
 > `6.1` Der Inselstaat Los Santos hat Millionen von Einwohnern, was stets berücksichtigt werden sollte. Kriminelle Handlungen könnten von jemandem beobachtet werden, also nutzt besser abgelegene Orte wie Gassen. Wenn ihr nach einem Fahrzeug oder einer Person sucht, denkt daran, dass ihr nicht ohne genaue Identifizierung sicher sein könnt. Behaltet diese Tatsache immer im Hinterkopf.
 
 ---
 
-> ## 7. Alte Freunde Regel 😊
+## 7. Alte Freunde Regel 😊
 > Du darfst mit deinen Freunden gemeinsam einreisen, jedoch keine Rollenspiel-Stränge von vorherigen Servern weiterführen oder ausspielen.
 >
 > `7.1` Du kannst diese Regel mit maximal zwei weiteren Freunden nutzen.
@@ -141,7 +141,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 8. Gruppierungen & Fraktionen 🕵️‍♂️
+## 8. Gruppierungen & Fraktionen 🕵️‍♂️
 > Crime ist essentiell für jeden Roleplay Server. Wir haben uns Gedanken gemacht über folgende Regelungen:
 >
 > `8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **3 Personen** erlaubt.
@@ -152,7 +152,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 9. Korruption 🤑
+## 9. Korruption 🤑
 > **Korruption** bezieht sich auf Handlungen und Entscheidungen, die sich auf Bestechlichkeiten und Integrität von Personen oder staatlichen Institutionen auswirken. Korruption kann sich in verschiedene Arten auszeichnen. Generell gilt; Führungspositionen der staatlichen Institutionen ist Korruption untersagt.
 >
 > `9.1` Korruption durch Bestechlichkeit
@@ -173,7 +173,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 10. Ausreise oder Tod deines Charakters 👼
+## 10. Ausreise oder Tod deines Charakters 👼
 > Die Ausreise und damit die dauerhafte Löschung deines Charakters muss vorab im Discord-Support angemeldet und genehmigt werden. Folgende Voraussetzungen gelten für die Ausreise:
 >
 > `10.1` Alle laufenden RP-Stränge und Handlungen müssen abgeschlossen sein.
@@ -192,7 +192,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
-> ## 11. Teamspeak 🔊
+## 11. Teamspeak 🔊
 > Folgendes gilt auf unserem Server während des Spielens:
 >
 > `11.1` Die Anwesenheit im Teamspeak ist eine Grundvoraussetzung.
