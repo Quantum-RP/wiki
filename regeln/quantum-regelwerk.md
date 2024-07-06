@@ -284,6 +284,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ## 19. Sonstiges 🤫
 > Prinzipiell gilt:
+> 
 > `19.1` Roleplay-Szenarien sind immer zu beenden, bevor der Support aufgesucht wird.
 >
 > `19.2` **Roleplay-Szenarien wie Extreme-RP, Rape-RP oder Szenarien, welche gegen deutsches Recht verstoßen, müssen sofort abgebrochen und gemeldet werden!!**
@@ -292,6 +293,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ## 20. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
 > Es gilt zu beachten:
+> 
 > `20.1` Wer auf unserem Projekt spielt, gibt sich damit einverstanden, dass das Roleplay in Ton und Bild veröffentlich werden könnte.
 
 ---
