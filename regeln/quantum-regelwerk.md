@@ -206,6 +206,7 @@ Folgende Punkte sind auf Quantum verboten:**
 
 ## 12. Die Bewusstlosigkeit 👀
 > In der Bewusstlosigkeit gehören einige Merkmale dazu, welche es zu beachten gilt:
+> 
 > `12.1` Informationen, die du während deiner Bewusstlosigkeit erhältst, dürfen nicht verwendet werden.
 >
 > `12.2` Einer bewusstlosen Person sollte prinzipiell immer geholfen werden.
