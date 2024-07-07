@@ -234,6 +234,8 @@ Folgende Punkte sind auf Quantum verboten:**
 > `14.2` Bei einer unterdrückten Nummer darf die Stimme nicht erkannt werden.
 >
 > `14.3` Ein Stimmverzerrer ist bei einer unterdrückten Nummer erlaubt. Wichtig ist, dass man die Stimme noch verstehen muss.
+>
+> `14.4` Personen, die sich dabei bemühen, ihre Stimme mit einer Maskierung zu verstellen, dürfen nicht erkannt werden.
 
 ---
 
@@ -289,6 +291,8 @@ Folgende Punkte sind auf Quantum verboten:**
 > `19.1` Roleplay-Szenarien sind immer zu beenden, bevor der Support aufgesucht wird.
 >
 > `19.2` **Roleplay-Szenarien wie Extreme-RP, Rape-RP oder Szenarien, welche gegen deutsches Recht verstoßen, müssen sofort abgebrochen und gemeldet werden!!**
+>
+> `19.3` Stimmverzerrer sind nur bei Telefonaten erlaubt.
 
 ---
 
