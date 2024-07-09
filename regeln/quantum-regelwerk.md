@@ -293,6 +293,8 @@ Folgende Punkte sind auf Quantum verboten:**
 > `19.2` **Roleplay-Szenarien wie Extreme-RP, Rape-RP oder Szenarien, welche gegen deutsches Recht verstoßen, müssen sofort abgebrochen und gemeldet werden!!**
 >
 > `19.3` Stimmverzerrer sind nur bei Telefonaten erlaubt.
+>
+> `19.4` NPCs dürfen nicht ohne ausreichenden Roleplay-Hintergrund (nieder)-geschlagen oder getötet werden.
 
 ---
 
