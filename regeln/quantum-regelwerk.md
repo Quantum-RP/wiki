@@ -266,7 +266,7 @@ Folgende Punkte sind auf Quantum verboten:**
 >
 > `17.2` Achtet darauf, dass immer genügend Reaktionszeit (mind. 5 - 10 Sekunden) gegeben wird. Dies gilt auch für das Opfer in dem Szenario.
 >
-> `17.3` Equipment des Rettungsdienstes, der Polizei oder der Regierung bedarf einem ausreichend, plausbilen Roleplay-Hintergrund
+> `17.3` Die Abnahme des Equipments des Rettungsdienstes, der Polizei oder der Regierung bedarf einem ausreichend, plausbilen Roleplay-Hintergrund. Diese Gegenstände sind im Roleplay auszuhebeln. (Bspw. Magazine der Dienstwaffen werden "entladen".)
 >
 > `17.4` Überfälle auf Gewerbe bedürfen auch einem ausreichenden Roleplay-Hintergrund.
 >
