@@ -143,9 +143,9 @@ Folgende Punkte sind auf Quantum verboten:**
 ## 8. Gruppierungen & Fraktionen 🕵️‍♂️
 > Crime ist essentiell für jeden Roleplay Server. Wir haben uns Gedanken gemacht über folgende Regelungen:
 >
-> `8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **3 Personen** erlaubt.
+> `8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **2 Personen** erlaubt.
 >
-> `8.2` Um eine Fraktion zu gründen sind mindestens **4 Personen** notwendig.
+> `8.2` Um eine Fraktion zu gründen sind mindestens **3 Personen** notwendig.
 >
 > `8.3` Die Grenze von 12. Mitgliedern pro Fraktionen darf nicht überschritten werden.
 
@@ -154,21 +154,9 @@ Folgende Punkte sind auf Quantum verboten:**
 ## 9. Korruption 🤑
 > **Korruption** bezieht sich auf Handlungen und Entscheidungen, die sich auf Bestechlichkeiten und Integrität von Personen oder staatlichen Institutionen auswirken. Korruption kann sich in verschiedene Arten auszeichnen. Generell gilt; Führungspositionen der staatlichen Institutionen ist Korruption untersagt.
 >
-> `9.1` Korruption durch Bestechlichkeit
+> `9.1` Korruption ist zur Aufbauzeit des Servers verboten.
 >
-> `9.2` Korruption durch Vetternwirtschaft
->
-> `9.3` Korruption durch Amtsmissbrauch
->
-> **Beispiele** für Korruption könnten sein:
->
-> `9.4` Annahme von Geld um Akten zu manipulieren
->
-> `9.5` Annahme von Geld um Daten aus Akten preiszugeben
->
-> `9.6` Annahme von Geld um Ermittlungen oder Urteile zu beeinflussen
->
-> `9.7` Bevorzugen von Verwandten und Freunden
+> _Diese Serverregel wird entsprechend angepasst, wenn Spieler ihre Stränge aufgebaut haben._
 
 ---
 
@@ -295,13 +283,26 @@ Folgende Punkte sind auf Quantum verboten:**
 > `19.3` Stimmverzerrer sind nur bei Telefonaten erlaubt.
 >
 > `19.4` NPCs dürfen nicht ohne ausreichenden Roleplay-Hintergrund (nieder)-geschlagen oder getötet werden.
+>
+> `19.5` Es ist nicht erlaubt, lediglich für Schießereien online zu kommen und sich danach auszuloggen.
+
+## 20. Blood In & Out 🩸
+> Blood In bedeutet, dass du dein Blut für den Eintritt in eine Familie gibst. Blood Out bedeutet, dass du mit deinem Blut aus deiner Familie trittst.
+>
+> 20.1 Mitglieder, welche einer kriminellen Organisation beitreten wollen, müssen ein Ritual durchlaufen um in die Gruppierung aufgenommen zu werden.
+>
+> 20.2 Ein Austritt aus einer Gruppierung ist nur mit einem Blood Out möglich.
+>
+> 20.3 Ein BloodOut bedeutet, dass jegliche Erinnerungen zu der Fraktion, also auch Firmen, Häuser etc. nicht weiter bespielt werden dürfen. Begangene Straftaten hingegen schon.
+>
+> 20.4 Sollte ein BloodOut vollzogen worden sein und das ausgetretene Mitglied gibt dennoch "verlorene" Erinnerungen und Standorte weiter, ist mit einem Charakterkill zu rechnen.
 
 ---
 
-## 20. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
+## 21. Aufnahmen für Plattformen (z.B. YouTube / Twitch) 👾
 > Es gilt zu beachten:
 > 
-> `20.1` Wer auf unserem Projekt spielt, gibt sich damit einverstanden, dass das Roleplay in Ton und Bild veröffentlich werden könnte.
+> `21.1` Wer auf unserem Projekt spielt, gibt sich damit einverstanden, dass das Roleplay in Ton und Bild veröffentlich werden könnte.
 
 ---
 
