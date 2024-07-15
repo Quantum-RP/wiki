@@ -143,7 +143,7 @@ Folgende Punkte sind auf Quantum verboten:**
 ## 8. Gruppierungen & Fraktionen 🕵️‍♂️
 > Crime ist essentiell für jeden Roleplay Server. Wir haben uns Gedanken gemacht über folgende Regelungen:
 >
-> `8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **2 Personen** erlaubt.
+> `8.1` Zusammenschlüsse von Zivilisten, die kriminelle Aktivitäten starten wollen ist mit maximal **3 Personen** erlaubt.
 >
 > `8.2` Um eine Fraktion zu gründen sind mindestens **3 Personen** notwendig.
 >
