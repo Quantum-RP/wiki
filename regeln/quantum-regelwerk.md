@@ -12,8 +12,9 @@ index: 0
 Willkommen auf der Hauptseite des Regelwerks. Hier findest du alle wichtigen Informationen und Vorschriften.
 Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln vertraut zu machen und dein Wissen stets auf dem neuesten Stand zu halten. 📚
 
-**Kurzfristige Ankündigungen im Kanal 🔀 ┃ regel-änderung vom Quantum Discord sind als Ergänzungen zum Regelwerk zu beachten. Ein Verstoß wird als Regelverstoß geahndet. Wir versuchen bewusst, dass Regelwerk so klein wie möglich zu halten, um authentisches Roleplay zu gewährleisten.
-Folgende Punkte sind auf Quantum verboten:**
+**Kurzfristige Ankündigungen im Kanal 🔀 ┃ regel-änderung vom Quantum Discord sind als Ergänzungen zum Regelwerk zu beachten. Ein Verstoß wird als Regelverstoß geahndet. Wir versuchen bewusst, dass Regelwerk so klein wie möglich zu halten, um authentisches Roleplay zu gewährleisten.**
+
+**Folgende Punkte sind auf Quantum verboten:**
 
 ---
 
