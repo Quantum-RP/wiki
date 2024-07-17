@@ -4,7 +4,7 @@ index: 0
 ---
 
 > [!TIP]
-> Der Leitgedanke von Quantum dreht sich um realistisches, authentisches und einem engagiertem Rollenspielerlebnis für alle Spielerinnen und Spieler. Mit Quantum möchten wir einen atmosphärischen Server schaffen, auf dem ihr unvergessliche Situationen erleben und viel Spaß haben könnt. Versucht, Ereignisse auf dem Server niemals persönlich zu nehmen und behandelt eure Mitspieler stets respektvoll. Fairness ist in einem solchen Projekt von größter Bedeutung!
+> Der Leitgedanke von Quantum dreht sich um realistisches, authentisches und einem engagiertem Rollenspielerlebnis für alle Spielerinnen und Spieler. Mit Quantum möchten wir einen atmosphärischen Server schaffen, auf dem ihr unvergessliche Situationen erleben und viel Spaß haben könnt. Versucht, Ereignisse auf dem Server niemals persönlich zu nehmen und behandelt eure Mitspieler stets respektvoll. Fairness ist in einem solchen Projekt von größter Bedeutung! Spaßverderber finden bei uns keinen Platz.
 
 ---
 
