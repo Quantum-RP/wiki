@@ -234,6 +234,8 @@ Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln ver
 > `15.2` Gefesselte Personen müssen bei "Leerphasen" ohne Interaktion freigelassen oder entlassen werden.
 >
 > `15.3` RP-Flucht oder Power-RP findet dann Gebrauch, wenn Personen stehengelassen oder bei Nicht-Roleplay mit einbezogen werden.
+>
+> `15.4` Bei Entführungen und Geiselnahmen müssen Lösegelder eine wirtschaftlich- realistische Grenze haben.
 
 ---
 
