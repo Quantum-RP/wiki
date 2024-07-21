@@ -255,15 +255,17 @@ Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln ver
 >
 > `17.2` Achtet darauf, dass immer genügend Reaktionszeit (mind. 5 - 10 Sekunden) gegeben wird. Dies gilt auch für das Opfer in dem Szenario.
 >
-> `17.3` Die Abnahme des Equipments des Rettungsdienstes, der Polizei oder der Regierung ist verboten. Diese Gegenstände sind im Roleplay auszuhebeln. (Bspw. Magazine der Dienstwaffen werden "entladen".)
+> `17.3` Die Abnahme von Waffen der Polizei ist mit ausreichendem RP-Hintergrund erlaubt. Eine Verkehrskontrolle ist kein ausreichender RP-Hintergrund. Drogenfeldkontrollen hingegen schon.
 >
-> `17.4` Überfälle auf Gewerbe bedürfen auch einem ausreichenden Roleplay-Hintergrund.
+> `17.4` Die Abnahme von Equipment des Rettungsdienstes und der Regierung bleibt weiterhin verboten.
 >
-> `17.5` Achtet auf die Verhältnismäßigkeit bei der Abnahme von Gegenständen. Entwedet ihr beispielsweise lieber Geld oder Schmuck? Ist der Diebstahl von Essen und Trinken notwendig?
+> `17.5` Überfälle auf Gewerbe bedürfen auch einem ausreichenden Roleplay-Hintergrund.
 >
-> `17.6` Raube oder Diebstähle sollten zu nachvollziehbaren Uhrzeiten stattfinden, so ist beispielsweise 5 Uhr am Morgen nicht sinnhaft.
+> `17.6` Achtet auf die Verhältnismäßigkeit bei der Abnahme von Gegenständen. Entwedet ihr beispielsweise lieber Geld oder Schmuck? Ist der Diebstahl von Essen und Trinken notwendig?
 >
-> `17.7` Sollte ein Raub oder ein Diebstahl nicht verhältnismäßig sein, sieht sich das Team vor, die Sachen zu entfernen bzw. zu erstatten.
+> `17.7` Raube oder Diebstähle sollten zu nachvollziehbaren Uhrzeiten stattfinden, so ist beispielsweise 5 Uhr am Morgen nicht sinnhaft.
+>
+> `17.8` Sollte ein Raub oder ein Diebstahl nicht verhältnismäßig sein, sieht sich das Team vor, die Sachen zu entfernen bzw. zu erstatten.
 
 ---
 
