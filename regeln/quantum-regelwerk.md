@@ -180,16 +180,14 @@ Durchstöbere die verschiedenen Abschnitte, um dich mit den geltenden Regeln ver
 
 ---
 
-## 11. Teamspeak 🔊
+## 11. Ingame Voice 🔊
 > Folgendes gilt auf unserem Server während des Spielens:
 >
-> `11.1` Die Anwesenheit im Teamspeak ist eine Grundvoraussetzung.
+> `11.1` Die Nutzung anderer Programme wie zum Beispiel Discord zur Kommunikation während des Roleplays sind verboten.
 >
-> `11.2` Die Nutzung anderer Programme wie zum Beispiel Discord zur Kommunikation während des Roleplays sind verboten.
+> `11.2` Bitte vermeidet Störgeräusche und störende Geräusche im Hintergrund.
 >
-> `11.3` Bitte vermeidet Störgeräusche und störende Geräusche im Hintergrund.
->
-> `11.4` Dein Mikrofon bzw. Headset muss eine ausreichende Qualität haben.
+> `11.3` Dein Mikrofon bzw. Headset muss eine ausreichende Qualität haben.
 
 ---
 
