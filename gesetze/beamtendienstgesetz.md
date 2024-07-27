@@ -67,5 +67,92 @@ index:
 > - Anweisungen werden missachtet oder es erfolgt vorsätzlicher Widerstand gegen Exekutivbeamte.
 
 ## §4 - Aufgaben der Exekutive
+>
+> `§4.1` **Aufrechterhaltung der öffentlichen Sicherheit und Ordnung:**
+> - Überwachung öffentlicher Plätze und Veranstaltungen.
+> - Eingreifen bei Störungen der öffentlichen Ordnung.
+> - Verhinderung und Unterbindung von Straftaten und Ordnungswidrigkeiten.
+>
+> `§4.2` **Strafverfolgung:**
+> - Ermittlung und Verfolgung von Straftaten.
+> - Durchführung von Festnahmen und Verhaftungen.
+> - Sammlung und Sicherung von Beweismitteln.
+> - Zusammenarbeit mit der Staatsanwaltschaft und den Gerichten.
+>
+> `§4.3` **Verkehrssicherung:**
+> - Überwachung und Regelung des Straßenverkehrs.
+> - Unfallaufnahme und -dokumentation.
+> - Kontrolle der Verkehrstüchtigkeit von Fahrzeugen und Fahrern.
+> - Durchführung von Verkehrskontrollen.
+>
+> `§4.4` **Gefahrenabwehr:**
+> - Präventive Maßnahmen zur Verhinderung von Gefahren für die öffentliche Sicherheit.
+> - Bekämpfung von Katastrophen und schweren Unglücksfällen.
+> - Evakuierung und Sicherung von Gefahrenzonen.
 
 ## §5 - Handeln auf Anordnung
+>
+> `§5.1` **Durchführung von Hausdurchsuchungen und Beschlagnahmungen:**
+> - Ausführung von Durchsuchungsbefehlen zur Sicherstellung von Beweismitteln.
+> - Beschlagnahmung von Gegenständen, die im Zusammenhang mit Straftaten stehen.
+>
+> `§5.2` **Verhaftungen und Vorführungen:**
+> - Festnahme von Personen auf Anordnung eines Haftbefehls.
+> - Vorführung von Verdächtigen vor Gericht oder Staatsanwaltschaft.
+>
+> `§5.3` **Absicherung von Veranstaltungen und Versammlungen:**
+> - Bereitstellung von Polizeikräften zur Sicherung von Großveranstaltungen auf Anordnung.
+> - Durchsetzung von Auflagen und Verboten bei Versammlungen.
+>
+> `§5.4` **Verkehrsmaßnahmen:**
+> - Einrichtung von Verkehrskontrollen und Sperrungen auf Anordnung.
+> - Durchführung von Alkohol- und Drogenkontrollen im Straßenverkehr.
+>
+> `§5.5` **Personenschutz und Bewachung:**
+> - Bereitstellung von Personenschutz für gefährdete Personen auf Anordnung.
+> - Bewachung von Gebäuden, Einrichtungen und anderen Objekten.
+>
+> `§5.6` **Unterstützung anderer Behörden und Organisationen:**
+> - Assistenz bei Aktionen von Zoll, Ordnungsämtern oder anderen Behörden
+>
+> `§5.7` **Durchführung von Ermittlungen:**
+> - Aufnahme und Weiterverfolgung von Ermittlungsanweisungen.
+> - Durchführung spezifischer Ermittlungsmaßnahmen, wie z.B. Observationen.
+>
+> `§5.8` **Vollzug gerichtlicher Anordnungen:**
+> - Zwangsräumungen und Durchsetzung von einstweiligen Verfügungen.
+> - Unterstützung bei der Vollstreckung von Urteilen und Beschlüssen.
+>
+> `§5.9` **Spezialaufgaben:**
+> - Einsatz von Spezialeinheiten (z.B. SEK, MEK) auf Anordnung bei besonderen Lagen.
+> - Durchführung von Geiselnahmen- und Terrorlagenbewältigung.
+
+## §6 - Immunität für Staatsbeamte
+> 
+> `§6.1` **Funktionale Immunität (Amtsimmunität):**
+> - **Diensthandlungen:** Staatsbeamte genießen Immunität für Handlungen, die in Ausübung ihres Dienstes vorgenommen werden.
+> - **Beschränkungen:** Diese Immunität gilt nicht für Handlungen außerhalb des dienstlichen Rahmens oder für private Straftaten.
+>
+> `§6.2` **Aufhebung der Immunität:**
+> - Die Immunität nach `§6.1 BDG` kann jederzeit durch den Kanzler / Vizekanzler der Regierung aufgehoben werden. Auch die Polizeipräsidenten / Vizepräsident & SchuPo Direktionspräsident können Immunitäten temporär aussetzen.
+
+## §7 - Tragen und Verwenden der Dienstwaffe
+>
+> `§7.1` **Tragen von Dienstwaffen in der Öffentlichkeit**
+> - Jeder Polizeibeamte hat das Recht, seine Dienstwaffe in der Öffentlichkeit zu tragen..
+>
+> `§7.2` **Einsatz von Schusswaffen**
+> - Die Dienstwaffe darf nur im Rahmen der gesetzlichen Bestimmungen und in Notwehrsituationen eingesetzt werden.
+
+## §8 - Mitarbeitermanagement
+>
+> `§8.1` **Ausbildungen, Training und Fortbildungen**
+> - Jeder Beamte muss regelmäßig an Fortbildungen und Trainings teilnehmen.
+>
+> `§8.2` **Dienstpflichten**
+> - Polizeibeamte sind verpflichtet, ihre Aufgaben gewissenhaft und unparteiisch zu erfüllen.
+> - Jeder Beamte muss sich an die geltenden Gesetze und Dienstvorschriften halten.
+> - Beamte sind zur Verschwiegenheit über dienstliche Angelegenheiten verpflichtet.
+>
+> `§8.3` **Beförderungen und Auszeichnungen**
+> - Beförderungen basieren auf die Dienstzeit.
