@@ -17,7 +17,7 @@ Willkommen in der Kategorie Gesetzestexte. Hier findest du alle relevanten Geset
 3. Straßenverkehrsordnung (StVO) 🚗
 4. Beamtendienstgesetz (BDG) 🚓
 5. [Strafprozessordnung (StPO)](https://quantum-wiki.pages.dev/gesetze/strafprozessordnung.html) 📗
-6. Betäubungsmittelgesetz (BtMG) 🚬
+6. [Betäubungsmittelgesetz (BtMG)](https://quantum-wiki.pages.dev/gesetze/betäubungsmittelgesetz.html) 🚬
 
 ---
 
