@@ -1,6 +1,6 @@
 ---
 title: 💊 Betäubungsmittelgesetz
-index: 
+index: 6
 ---
 
 # 💊 Betäubungsmittelgesetz
