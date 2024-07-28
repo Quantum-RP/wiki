@@ -1,6 +1,6 @@
 ---
 title: 📙 Straßenverkehrsordnung
-index: 
+index: 3
 ---
 
 # 📙 Straßenverkehrsordnung (StVO)
