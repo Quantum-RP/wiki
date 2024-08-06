@@ -55,6 +55,8 @@ index: 4
 > - Sicherung anderer Beamter
 > - Sicherung von Zivilisten
 > - Sicherung eventueller Straftäter
+>
+> `§2.11` **Weisungsbefugnis:** Beamte der Regierung, des Rettungsdienstes, der Polizei und des Zolls sind verpflichtet, den Anweisungen ihrer Vorgesetzten stets Folge zu leisten.
 
 ## §3 - Befugnisse der Beamten:
 >
@@ -156,3 +158,16 @@ index: 4
 >
 > `§8.3` **Beförderungen und Auszeichnungen**
 > - Beförderungen basieren auf die Dienstzeit.
+
+## §9 - Großkontrollpunkte (GKP)
+>
+> `§9.1` **Rechte der Beamten**
+> - Die Polizei und der Zoll haben das Anrecht, bei einer geplanten Großkontrolle (GKP) jegliches Fahrzeug, jede Person sowie deren Gepäckstücke und Ladungen zu kontrollieren.
+> - Beamte dürfen während der Kontrolle Fahrzeuge anhalten und durchsuchungen durchführen, auch ohne konkreten Verdacht auf eine Straftat oder Ordnungswidrigkeit.
+> - Beamte sind befugt, Personalien festzustellen und Identitätsnachweise zu verlangen.
+>
+> `§9.2` **Durchführung der Großkontrollen**
+> - Großkontrollen müssen NICHT angekündigt werden und dürfen jederzeit von der Polizei gemeinsam mit dem Zoll Durchgeführt werden.
+> 
+> `§9.3` **Schulung und Sensibilisierung**
+> - Polizeibeamte, die bei Großkontrollen eingesetzt werden, sind regelmäßig zu schulen, um sicherzustellen, dass sie die rechtlichen Rahmenbedingungen, die Grundrechte der Bürger und die Prinzipien der Verhältnismäßigkeit und Angemessenheit kennen und anwenden können.
