@@ -68,7 +68,7 @@ export default defineConfig({
 
     notFound: {
       code: 'Quantum',
-      title: 'Hier gibts nichts mehr zu sehen',
+      title: 'Hier gibts leider nichts mehr zu sehen',
       quote: `
 Die Projektleitung von Quantum hat kürzlich einige ihrer Entwickler von ihrem Discord-Server gebannt. 
 Dies geschah, nachdem wir uns Anerkennung für die von uns geleistete Arbeit und ein faires Miteinander gewünscht haben. Stattdessen wurde unsere Bitte um ein Gespräch diesbezüglich mit einem Ausschluss aus dem Team beantwortet.
